@@ -1,0 +1,130 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #708090;
+    background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, .4)), to(rgba(0, 0, 0, .4)), color-stop(20%, rgba(0, 0, 0, 0)), color-stop(80%, rgba(0, 0, 0, 0)));
+    background-image: -moz-linear-gradient(0deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, .4));
+}
+
+img {
+    border-width: 0;
+}
+
+.container {
+}
+
+.page {
+    margin: 30px;
+}
+
+.navigation {
+    font-family: Verdana, sans-serif;
+    font-size: 40px;
+    margin-top: 0;
+    padding-top: 0;
+    border-top-width: 0;
+}
+
+.navigation li {
+    list-style: none;
+    display: inline-block;
+    font-variant: small-caps;
+}
+
+.navigation li a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    text-shadow: 1px 1px 2px white;
+
+    border: 12px solid white;
+    -moz-border-radius: 12px;
+ -webkit-border-radius: 12px;
+         border-radius: 12px;
+}
+
+.navigation li a:hover {
+    background-color: #F68E14;
+    border-bottom: 2px solid black;
+    background-image: -webkit-gradient(linear, left bottom, left top, from(rgba(255, 255, 255, 0)), to(rgba(255, 255, 255, 1)), color-stop(20%, rgba(255, 255, 255, 0.8)));
+    background-image: -moz-linear-gradient(90deg, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.8) 20%, rgba(255, 255, 255, 1));
+}
+
+.gaelyk-logo {
+    float: right;
+    position: relative;
+    right: 30px;
+    top: 30px;
+}
+
+h1 {
+	color: #F68E14;
+	border-bottom: 3px double #F68E14;
+    
+    text-shadow: 1px 1px 2px black;
+}
+
+.content {
+    color: black;
+    background-color: white;
+    padding: 10px;
+
+    border: 12px solid white;
+    -moz-border-radius: 12px;
+ -webkit-border-radius: 12px;
+         border-radius: 12px;
+    
+     -moz-box-shadow: 5px 5px 40px black;
+  -webkit-box-shadow: 5px 5px 40px black;
+          box-shadow: 5px 5px 40px black;
+}
+
+p {
+    margin-left: 20px;    
+}
+
+.summary {
+    margin: 20px;
+}
+
+.speaker-name {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.bio-picture {
+    border: 8px solid white;
+
+     -moz-box-shadow: 2px 2px 4px gray;
+  -webkit-box-shadow: 2px 2px 4px gray;
+          box-shadow: 2px 2px 4px gray;
+}
+
+.inlined-list {
+    display: inline;
+}
+
+.inlined-item {
+    display: inline;
+}
+
+.tracks-talks .clear {
+    clear: both;
+}
+
+.tracks-talks .talks {
+    float: right;
+    width: 75%;
+    border-left: 1px double #F68E14;
+    padding-left: 30px;
+}
+
+.tracks-talks .tracks {
+    float: left;
+    width: 20%;
+}
+
+.times {
+    color: #F68E14;
+    border-bottom: 1px dotted gray;
+}

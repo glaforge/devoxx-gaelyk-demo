@@ -1,0 +1,2218 @@
+[
+    {
+        "summary":"Developing a desktop application with Java Swing is a long and arduous task. The Griffon framework makes this task easy, productive and fun! Come see by yourself how a desktop app can be created in minutes.",
+        "id":6,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/5",
+        "title":"A desktop app in minutes? Griffon to the rescue",
+        "speaker":"Andres Almiray",
+        "track":"Desktop/RIA/Mobile",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/5",
+                "speaker":"Andres Almiray"
+            }
+        ],
+        "type":"Quickie (15m)"
+    },
+    {
+        "summary":"This presentation will cover the basics of ElasticSearch (http://www.elasticsearch.com), an open source, distributed, RESTful, search engine. We will go over what it means to develop a distributed search engine with \"data grid level\" features, as well as cover basic elasticsearch functionally. We will also cover how search and nosql solution integrate and cooperate.",
+        "id":22,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/31",
+        "title":"ElasticSearch - You Know, for Search",
+        "speaker":"Shay Banon",
+        "track":"Cloud/NoSQL",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/31",
+                "speaker":"Shay Banon"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Part of Spring 3, JavaConfig provides a flexible, non-invasive option for configuring applications inside the Spring IoC container using JVM-based languages such as Java or Groovy. This session will explore the features offered by JavaConfig, what makes it stand out from other annotation-based configurations and what it takes to integrate it _immediately_ into an existing application whether for wiring up one's own components, custom APIs or third-party libraries.\r\n\r\nAs opposed to the DI flavours talk, which gives an overview of all configuration features and how they relate to each other, this presentation focuses only on JavaConfig and the opportunities it offers.",
+        "id":28,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/37",
+        "title":"Spring 3 Java Config",
+        "speaker":"Costin Leau",
+        "track":"Architecture/Security",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/37",
+                "speaker":"Costin Leau"
+            }
+        ],
+        "type":"Quickie (15m)"
+    },
+    {
+        "summary":"Backed by the authors of popular DI frameworks such as Google Guice, Spring and Pico container, JSR-330 or \"Dependency Injection for Java\" standardizes a set of annotations and a type-safe API to make injectable classes portable across frameworks. This presentation will give attendees a quick tour of the new javax.inject package and an overview of its usage in both Java EE 6 (of which it is a part of) and Java SE.",
+        "id":29,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/37",
+        "title":"Standard DI with @Inject and JSR-330",
+        "speaker":"Costin Leau",
+        "track":"Architecture/Security",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/37",
+                "speaker":"Costin Leau"
+            }
+        ],
+        "type":"Quickie (15m)"
+    },
+    {
+        "summary":"To enable Sever-Side-Push in Web-Applications a lot of hacks (aka Comet/Bayeux) have been done in the past. While Comet allows to stream data to the client there are still limitations since you need a second request to talk to the server. The WebSocket spec fixes that by introducing a bi-directional and full duplex communication channel over a single TCP connection. Coupling this with JSF, the standard way to create Java EE based web applications, creates some interesting new options in building web applications. This session gives an overview of the WebSocket API and shows you how to get started with the Glassfish implementation. The session shows patterns on how to create powerful and future-proof Applications with WebSockets and JSF.",
+        "id":32,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/46",
+        "title":"WebSockets meet JavaServer Faces",
+        "speaker":"Matthias Wessendorf",
+        "track":"Web Frameworks",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/46",
+                "speaker":"Matthias Wessendorf"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"The Mylyn plugin is contained in a lot of Eclipse distributions but quite undiscovered amongst developers nevertheless. Having that said there is an enormous amount of productivity gain to be discovered in this area to free developers from technical and organizational bonds and thus make every single individual more productive.\r\n\r\nThe talk presents key advantages using Mylyn demoing the tool and focuses on the main topics of Mylyn: task orientation, productivity and traceability.",
+        "id":39,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/54",
+        "title":"Increasing developer productivity with Mylyn",
+        "speaker":"Oliver Gierke",
+        "track":"Methodology",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/54",
+                "speaker":"Oliver Gierke"
+            }
+        ],
+        "type":"Tools in Action (30m)"
+    },
+    {
+        "summary":"A new Java-based framework for rapid development of enterprise Web applications is presented. We will:\r\n-\taddress some of the main issues that hamper software development in commonly used approaches: level of abstraction and accidental complexity\r\n-\tshow how UML models with executable semantics and appropriately coupled with the Java programming level alleviates these issues and boosts productivity\r\n-\tpresent a new, highly abstract paradigm for building contemporary, flexible, and scalable AJAX-based Web 2 GUIs with much less effort, interactively and even at runtime, without compilation\r\n-\tshow a case study and an attractive live demo.\r\nThe intended audience includes software architects and developers, regardless of the framework they currently use.",
+        "id":40,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/58",
+        "title":"SOLoist: A Java-Based Framework for Model-Driven Development of Enterprise Web Applications with Executable UML",
+        "speaker":"Dragan Milicev",
+        "track":"Methodology",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/58",
+                "speaker":"Dragan Milicev"
+            }
+        ],
+        "type":"Tools in Action (30m)"
+    },
+    {
+        "summary":"Today it is easy and comparably cheap to buy hardware capable of storing terrabytes of data. Now we need the tools to put this data to good use: Discovering trends from streamed user generated content, automatic learning approaches supplementing market research processes or recommending items in an online shopping system to users. \r\n\r\nApache Mahout is a project that provides tools for building these applications. The mission of the Apache Mahout project is to build a suite of scalable machine-learning algorithms. Scalable here really means: The implementations can cope with today's quantities of data. The project has an active community to help solving complex setups and problem settings. The license of the project is commercially friendly to allow for a wide range of applications to be built on top of Apache Mahout.\r\n\r\nThis talk provides a beginner-friendly introduction to the topic of machine learning. It presents a broad set of applications that benefit machine learning, as well as a high-level overview of Mahout. It also covers the types of tasks that can be solved with each algorithm, and the pitfalls to look out for along the way.",
+        "id":45,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/32",
+        "title":"Intelligent data analysis - Apache Mahout",
+        "speaker":"Isabel Drost",
+        "track":"Architecture/Security",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/32",
+                "speaker":"Isabel Drost"
+            }
+        ],
+        "type":"Tools in Action (30m)"
+    },
+    {
+        "summary":"W3C\u2019s HTML5 standard has rapidly gained momentum as 2010\u2019s hottest technology with help from companies, such as Google, Apple, and Microsoft. Developers and businesses alike are all trying to catch and align themselves with this new standard. Out of all the ideas and features in this new set of specifications, the most intriguing, exciting, and controversial section is HTML5 WebSocket.  At first glance, some misinterpret WebSocket as merely a better transport protocol and replacement of HTTP or XHR.  However, upon additional understanding, one quickly learns WebSocket is NOT a replacement or improved version of HTTP or XHR, nor do we want it to be! \r\n\r\nIf we look at the current hype around PaaS, Cloud, pre-built business widgets and applications, virtualization, payments etc\u2026  they have all forgotten to look at the road. The actual tarmac that makes all of this communicate. We all assumed the Web was just there, and that HTTP provided everything we needed for Web communication. HTML5 WebSocket is the evolution of the communication fabric TO, ACROSS and WITHIN the Web/Cloud, and now we need to open our minds and start looking at the possibilities of this new way to communicate over the Web!  Think BIG, really BIG!\r\n\r\nThis session is targeted developers and architects that are looking for better ways of increasing user experience and communication over the Web to create, improve, or replace existing Web applications.  The session is also targeted developers and architects that just want to stretch their minds and receive the necessary information on making an educated assessment of the business and technical opportunities, and challenges, made possible by this new HTML5 standard. Wickedly cool demos, code examples, and comparisons with existing technologies and architectures will be used to illustrate these possibilities and their use cases.",
+        "id":49,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/63",
+        "title":"HTML5 Websockets: A New World of Limitless, Live, and Wickedly Cool Web Applications",
+        "speaker":"Jonas Jacobi",
+        "track":"Architecture/Security",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/63",
+                "speaker":"Jonas Jacobi"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Spring 3.1 (scheduled for GA in Q4 2010) continues Spring's mission with a focus on next-generation web applications. The key themes include conversation management and comprehensive support for Servlet 3.0 and JSF 2.0.\r\n\r\nThis talk presents Spring 3 as a modern annotation-oriented application framework in the world of Java EE 6 and RIA. General component model trends will be discussed along with selected Spring 3.1 feature highlights in the web space.",
+        "id":56,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/67",
+        "title":"Spring 3.1 - Themes and Trends",
+        "speaker":"Juergen Hoeller",
+        "track":"Java Core (SE/EE)",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/67",
+                "speaker":"Juergen Hoeller"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Java EE is already the perfect solution for complex business/enterprise systems, and the improvements in JavaServer Faces 2.x provide the perfect chance to reach out to the consumer and small business market; JSF is easier to use than it's ever been before, now making it accessible to businesses of all sizes. In order to complete the user-experience, however, one must take extra steps to ensure that users see exactly the right information at the right time, and in a form that is welcoming. URL-rewriting is beneficial in any project (small and large,) and this tools session will present why \"pretty, bookmark-able URLs\" are important for client-facing applications, building trust, creating clean, consistent, intuitive client interactions on the web.\n\nAttendees should expect an overview covering the basics of inbound/outbound URL-rewriting, parametrization, and navigation - important principles that target the highly discriminating web-users found everywhere today. They will also be presented with a case study of the Parlays.com HTML 5 application, in which an existing JSF application is transformed from using standard URLs with query parameters, to using logical, well-structured, human-readable URLs (with PrettyFaces path-parametrization).",
+        "id":59,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/71",
+        "title":"Beautiful Java EE: URL-rewriting for the next generation web-user",
+        "speaker":"Lincoln Baxter III",
+        "track":"Web Frameworks",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/71",
+                "speaker":"Lincoln Baxter III"
+            }
+        ],
+        "type":"Tools in Action (30m)"
+    },
+    {
+        "summary":"This year's Conference Guide is created using iText, a Java-PDF library.\n\nIn the first part of the session, we'll examine the guide, and we'll make an inventory of all the possible technical problems that have to be countered if you want to create the guide in an automated way.  We'll have a brief look at the iText mechanisms that allow us to take these hurdles, after which we'll dive into the source code that did the job. This way, you'll learn how to create a PDF that is ready for publication.\n\nIn the second part, we'll discuss some more interactive features of PDF.\nYou'll learn about the difference between the old AcroForm technology and the newer XML Forms Architecture (XFA). We'll create different PDF forms using either Open Office (AcroForm) or Adobe Designer (XFA), and we'll fill out these forms using iText.\nFinally, we'll write a small Flash application in Flex that will be integrated into a PDF, taking a glimpse at the way the ActionScript in the Flash app communicates with the JavaScript in the PDF document.\n\nThese examples are taken from the second edition of \"iText in Action,\" published by Manning Publications Co.",
+        "id":60,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/83",
+        "title":"iText in Action, release of the second edition",
+        "speaker":"Bruno Lowagie",
+        "track":"Java Core (SE/EE)",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/83",
+                "speaker":"Bruno Lowagie"
+            }
+        ],
+        "type":"University (3h)"
+    },
+    {
+        "summary":"Asynchronicity is a fact of life in distributed systems. In the client case, there is the asynchronous API pattern in JAX-WS that allows a Web service proxy to be notified when a call to an asynchronous Web service has finished without blocking the original sending request. But true asychronicity can be achieved only at the server side.\r\n\r\nThis session is intended for anyone who develops, designs, and architects Web services-based applications. The session will address: \r\n* Client-side asynchrony based on JAX-WS\r\n* Server-side asynchrony\r\n* WS-Addressing for correlation of message and response\r\n* Implementations of asynchronous services\r\n* Building asynchronous clients using callbacks or MakeConnection",
+        "id":71,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/101",
+        "title":"Dealing with Asynchronicity in Java™ Technology-Based Web Services",
+        "speaker":"Nilesh Junnarkar",
+        "track":"Architecture/Security",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/101",
+                "speaker":"Nilesh Junnarkar"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"Ajax is everywhere, from the local newspaper to sites that the CEO surfs. Contrary to popular belief, it isn't rocket science, especially with the right library. In this talk, we'll explore the popular Prototype and jQuery libraries showing how they can simplify typical Ajax techniques and make JavaScript easier to work with. We'll look at how each library wraps the XHR object, smoothes out events, and how they each make use of the humble $.\r\n\r\nWhile there are a plethora of excellent choices in the Ajax library space, jQuery is fast becoming one of the most popular. In this talk, we'll see why. In addition to it's outstanding support for CSS selectors, dirt simple DOM manipulation, event handling and animations, jQuery also supports a rich ecosystem of plugins that provide an abundance of top notch widgets. Using various examples, this talk will help you understand what jQuery can do so you can see if it's right for your next project.",
+        "id":88,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/112",
+        "title":"Ajax Library Smack down: Prototype vs. jQuery",
+        "speaker":"Nathaniel Schutta",
+        "track":"Web Frameworks",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/112",
+                "speaker":"Nathaniel Schutta"
+            }
+        ],
+        "type":"University (3h)"
+    },
+    {
+        "summary":"For the last few years, the web has been all a-twitter about web 2.0 (and even the occasional reference to web 3.0.) Yes, the days of static web applications are officially over and while libraries like jQuery and Prototype make it easier to build modern applications, ultimately they are papering over issues in the web standards (and the browsers that implement them.) Today we're building to standards that are from the paleolithic era of web design but that's changing - and HTML 5 is a large part of that. In this talk, we'll discus just what HTML 5 is and why it matters. We'll show how you can build to HTML 5 today and which browsers support what. Thankfully, after many years of stagnation, the future of web applications looks bright!",
+        "id":90,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/112",
+        "title":"HTML 5 Fact and Fiction",
+        "speaker":"Nathaniel Schutta",
+        "track":"Web Frameworks",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/112",
+                "speaker":"Nathaniel Schutta"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"If you want to know what new feature of Hibernate you are missing, come and join us.\r\n\r\nJava Persistence 2 is closing the gap and standardizes even more persistence related features. \r\nWhat does this mean in the context of the Hibernate project? Generally speaking, what's new in Hibernate?\r\n\r\nIn this session, we will check out the new features of Hibernate and in particular the one coming from Java Persistence 2. They will be explored in live coding sessions.\r\n\r\nWe will explore: \r\n - the new type-safe Criteria API as well as its close brother the new Hibernate Static metamodel generator\r\n - the new locking options and their consequences for your applications\r\n - Infinispan's new second level cache\r\n - fetch profiles\r\n - the new partial generators\r\n - and many more things\r\n\r\nWe will also walk through what's beyond Hibernate Core: Hibernate has slowly grown from the ORM to a set of domain model centric tools like validation, full-text search and so on:\r\n - Hibernate Validator and the Bean Validation specification\r\n - Hibernate Envers and temporal data support\r\n - Hibernate Search and full-text search for Hibernate applications.\r\n\r\nGeneral knowledge of Hibernate or ORM (Object Relational Mapping) is preferred.",
+        "id":92,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/117",
+        "title":"What's new in Hibernate: a JPA 2 perspective",
+        "speaker":"Emmanuel Bernard",
+        "track":"Java Core (SE/EE)",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/117",
+                "speaker":"Emmanuel Bernard"
+            }
+        ],
+        "type":"University (3h)"
+    },
+    {
+        "summary":"For years, the enterprise IT community used to believe they were the big guys, and those Web folks were just script kiddies building toy apps with PHP. But by now, the really interesting systems are those built on the Web, with non-functional requirements that make even the biggest banking or insurance app pale in comparison. Integration, as practiced on the Web, is also widely different from the typical enterprise IT approach - yet it seems to yield results that outshine years of effort in most large companies.\r\n\r\nIn this session, we'll take a look at how the typical enterprise IT landscape can benefit from the Web's architecture, what Java developers need to learn to be part of this, and why the whole idea of \"applications\" is going to disappear.",
+        "id":93,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/118",
+        "title":"Enterprise IT vs. WWW",
+        "speaker":"Stefan Tilkov",
+        "track":"Architecture/Security",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/118",
+                "speaker":"Stefan Tilkov"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"A chance to discuss how you use Infinispan, and what you need and would like to see in an open source data grid solution.\r\n\r\nAlso help direct where Infinispan goes in future.  With many obvious overlaps with NoSQL solutions, what features do we want to adopt?\r\n\r\nBring your laptop, this session will involve whiteboard sessions, demos, walking through code, hacking up stuff.",
+        "id":96,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/120",
+        "title":"Hacking Infinispan: the new open source data grid meets NoSQL",
+        "speaker":"Manik Surtani",
+        "track":"Cloud/NoSQL",
+        "experience":"EXPERT",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/120",
+                "speaker":"Manik Surtani"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"The rise of Java Web Frameworks has come and gone, yet many are still widely used today. This session looks at the top JVM web frameworks and compares their pros and cons.\r\n\r\nFrameworks included: Struts 2, Spring MVC, Wicket, JSF, Tapestry, GWT, Grails and Rails",
+        "id":97,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/20",
+        "title":"Comparing JVM Web Frameworks",
+        "speaker":"Matt Raible",
+        "track":"Web Frameworks",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/20",
+                "speaker":"Matt Raible"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Today's applications are getting more and more distributed everyday and it is well-known that distributed programming is hard. With Hazelcast though, distributed programming is easy and lots of fun. Common reaction of Hazelcast users is 'Ooh my God, this cannot be that easy'. Hazelcast is an open source (Apache License), highly scalable, transactional, distributed/partitioned implementation of queue, map, multimap, topic, set, list, lock and executor service for Java. \r\n\nAgenda:\r\n* Introduction to Hazelcast\r\n* Code samples\r\n* Demo\r\n* Internals of Hazelcast\r\n* Q/A\r\n\r\nHelpful Links:\r\n* Project: http://code.google.com/p/hazelcast/\r\n* Running Hazelcast on a 100 Node Amazon EC2 Cluster (http://java.dzone.com/articles/running-hazelcast-100-node)",
+        "id":103,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/126",
+        "title":"Scalable Data Structures for Java",
+        "speaker":"Talip Ozturk",
+        "track":"Cloud/NoSQL",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/126",
+                "speaker":"Talip Ozturk"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"If you talk to the most well-known developers, whether they\u2019re people within your organization or internationally recognized experts, you\u2019ll find something in common: they\u2019re productive. Usually, it isn\u2019t just dumb luck. More often than not, they\u2019ve focused on becoming more productive.  \r\n\r\nThere are dozens of methodologies that claim to increase productivity, but there\u2019s a clear winner amongst highly productive software developers: Getting Things Done (GTD). GTD, originally described in productivity guru David Allen\u2019s best seller of the same title, describes a set of behaviors which, when followed regularly, reduce stress and help you become more productive at the same time. \r\n\r\nWhile GTD works for anyone who qualifies as an \u201cinformation worker\u201d, this session looks at how programmers, architects, and technical managers can apply GTD principles to improve the productivity of individuals and the group as a whole. In addition to discussing the core principles of GTD, this session also examines tools which can be used to implement the methodology. \r\n\r\n      Outline \r\n\r\n      * The Problem: too much stuff\r\n\r\n      * GTD Overview\r\n\r\n      * Applying what works\r\n\r\n      * GTD in teams\r\n\r\n      * Tools\r\n\r\n      ** Demo\r\n\r\n      * Summary",
+        "id":109,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/103",
+        "title":"Getting Things Done for Programmers",
+        "speaker":"Kito Mann",
+        "track":"Methodology",
+        "experience":"EXPERT",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/103",
+                "speaker":"Kito Mann"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"VisualVM is a visual tool integrating several commandline JDK tools and lightweight profiling capabilities. Designed for both production and development time use, it further enhances the capability of monitoring and performance analysis for the Java SE platform.\r\n\r\nBut its capabilities don't stop there. VisualVM provides a rich set of APIs to quickly set up a custom monitoring and visualization solution. You can use either one of the pre-packaged data acquisition APIs (jmx, jvmstat ...) or roll-out your own and make it available for others to use (eg. a one using linux \"/proc\" as the data source).\r\n\r\nThis session will focus on explaining the APIs in terms of architecture and their usage. To help in understanding the concepts a sample VisualVM module reading and visualizing CPU information on a Linux box.",
+        "id":115,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/27",
+        "title":"VisualVM - multiplatform versatile monitoring solution",
+        "speaker":"Jaroslav Bachorik",
+        "track":"Java Core (SE/EE)",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/27",
+                "speaker":"Jaroslav Bachorik"
+            }
+        ],
+        "type":"Tools in Action (30m)"
+    },
+    {
+        "summary":"The combination of the Convention over Configuration and Dependency Injection principles, drastically simplifies the Java EE 6 development model. This session covers the approach for building lean, but still maintainable and scalable applications with nothing but plain Java EE 6 technologies. A (rich) JPA 2.0 domain object can be annotated with JSR-303 (Bean Validation) for validation purposes, EJB 3.1 Stateless / Stateful Session Bean provide the transactionality, remoting (JAX-RS / REST), concurrency. JSR-299 (CDI) enables the direct exposure to to the JSF 2 view and extension points, as well as aspects. \r\nThe interesting point: such minimalistic architecture still remains extensible and testable.\r\n\r\nThe pragmatic combination of EJB 3.1, JPA 2.0, Bean Validation, Context and Dependency Injection and JAX-RS (REST) will be covered from the real world angle and is especially interesting to Java (EE) developers and architects:\r\n- Pragmatic modularization and deployment of WARs / EARs\r\n- Stateful vs stateless architectures\r\n- Domain driven design vs. service oriented components\r\n- Component configuration with EJB 3.1, interceptors and CDI\r\n- incremental migration from J2EE",
+        "id":121,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/131",
+        "title":"Creating Lightweight Applications With Nothing But Vanilla Java EE 6",
+        "speaker":"Adam Bien",
+        "track":"Java Core (SE/EE)",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/131",
+                "speaker":"Adam Bien"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Restfulie has attained attention in its Java and Ruby releases due to making the use of hypermedia and content negotiation a key point of its functionalities.\r\n\r\nThe presentation will show from scratch how to code resources on the server side and access them by exchanging resource representations; minimizing coupling through hypermedia; the usage of well known media types as open search and dealing with cache headers through conventions instead of configurations.\r\n\r\nOn the client side, the code created still allows us to TDD, achieve their business goals and are beautiful to look at in a developer point of view.\r\n\r\nIn the market, Thoughtworks technology radar has moved Restfulie into it \"assess\" area and the Rails community has showed interest and working on it through Ruby's Summer of Code. Restfulie usage has also been suggested in talks by big REST names as Jim Webber and Stefan Tilkov.\r\n\r\nAll coding will be based on Restfulie's Java version.",
+        "id":125,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/123",
+        "title":"Restfulie: quit pretending, use the web for real",
+        "speaker":"Guilherme Silveira",
+        "track":"Web Frameworks",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/123",
+                "speaker":"Guilherme Silveira"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/292",
+                "speaker":"Adriano Almeida"
+            }
+        ],
+        "type":"Tools in Action (30m)"
+    },
+    {
+        "summary":"Come learn about what Android has to offer to help you create compelling visuals and animations. This talk will show you advanced effects and present you what new APIs are coming in these areas.",
+        "id":126,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/132",
+        "title":"Android Graphics and Animations",
+        "speaker":"Romain Guy",
+        "track":"Desktop/RIA/Mobile",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/132",
+                "speaker":"Romain Guy"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/129",
+                "speaker":"Chet Haase"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Come learn about advanced APIs and techniques for Android. Learn about tools, optimizations, tips and tricks to create fancier UIs, etc.",
+        "id":133,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/132",
+        "title":"Dive into Android",
+        "speaker":"Romain Guy",
+        "track":"Desktop/RIA/Mobile",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/132",
+                "speaker":"Romain Guy"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/129",
+                "speaker":"Chet Haase"
+            }
+        ],
+        "type":"University (3h)"
+    },
+    {
+        "summary":"Last year, Antonio & Alexis presented Java EE 6 in a room full of admirers of this new specification (Java EE 6 was out after Devoxx, mid-december 2009). This time Antonio and Alexis are back with more advanced features on Java EE 6 which is even more powerful than they initially thought! JPA 2.0 entities, EJB 3.1 EJBs, Servlet 3.0, Bean Validation, JAX-RS, @Inject and CDI... will have no more secret for you.",
+        "id":134,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/116",
+        "title":"Java EE 6 Tutorial. Reloaded!",
+        "speaker":"Antonio Goncalves",
+        "track":"Java Core (SE/EE)",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/116",
+                "speaker":"Antonio Goncalves"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/182",
+                "speaker":"Alexis Moussine-Pouchkine"
+            }
+        ],
+        "type":"University (3h)"
+    },
+    {
+        "summary":"Updating a running web application in Java is not small feat. With just one server you have no choice, but to bring it down for the time of redeployment. For a cluster of servers you have to take servers down one by one and make sure that the old user sessions stick to the servers that are yet to be updated. There are some solutions out there, but they are not perfect. \r\n\r\nBut what if you could roll out the update instantly with a press of a button to all of the servers, without waiting for the users to migrate? And what if you could roll back that update just as easily in case of any issues? In this short talk I'd like to show how LiveRebel can solve this issues, so you don't have to.",
+        "id":140,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/142",
+        "title":"Instant Updates and Rollbacks in Production Applications",
+        "speaker":"Jevgeni Kabanov",
+        "track":"Architecture/Security",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/142",
+                "speaker":"Jevgeni Kabanov"
+            }
+        ],
+        "type":"Quickie (15m)"
+    },
+    {
+        "summary":"Make your application compile spreadsheets directly to parametrized, high-performance Java classes for use in your business logic using the Abacus Formula Compiler (http://formulacompiler.org/, available under GPL or commercially).\r\n\r\nWhy? In many business applications, the calculation of certain key values varies from user to user, and over time. Examples of such values are: prices and shipping rates in order-entry applications, asset valuations in portfolio management solutions, or insurance premiums in sales force applications.\r\n\r\nBusiness analysts, or the users themselves, know best how such key values are calculated and they know - and love - tools like Microsoft Excel or OpenOffice Calc. So let them use these familiar tools to define and update the calculations instead of adding endless and, for many users, incomprehensible configuration options to your code.\r\n\r\nFor you, no more hand-coding of changing calculation models. And, since changes in spreadsheets can be incorporated at run-time, no more waiting for the next code release for your users!\r\n\r\nI will show this in action with examples from the Abacus Financial Applications suite (http://abacus.ch/).",
+        "id":142,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/146",
+        "title":"Excel on the JVM: Generating Fast Code from Spreadsheet Models",
+        "speaker":"Peter Arrenbrecht",
+        "track":"New Languages on the JVM",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/146",
+                "speaker":"Peter Arrenbrecht"
+            }
+        ],
+        "type":"Tools in Action (30m)"
+    },
+    {
+        "summary":"Everyone writing a library function is designing an API. But do we always take the necessary care? Literate testing is an approach that gently guides you towards that care. You will create usable APIs, with better documentation and the most important tests: code examples. Design becomes a dialogue between documentation, examples-turned-tests and implementation sketches.\r\n\r\nLiterate testing is not new, but deserves wider usage in the Java world. In the talk, I'll present the approach in detail as well as a supporting tool called JCite.\r\n\r\nMore information, references and links to actual APIs designed this way at http://arrenbrecht.ch/testing/.",
+        "id":144,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/146",
+        "title":"Literate Testing: Justifying APIs Makes Them Better",
+        "speaker":"Peter Arrenbrecht",
+        "track":"Methodology",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/146",
+                "speaker":"Peter Arrenbrecht"
+            }
+        ],
+        "type":"Tools in Action (30m)"
+    },
+    {
+        "summary":"In today's data-sensitive and news-sensationalizing world, don't become the next headline by an inadvertent release of private customer or company data.  Attend this session to gain a working knowledge of encryption and learn techniques for leveraging Open Source APIs that make securing your data as easy as possible.  Encryption is quickly becoming a developer's new frontier of responsibility in many data-centric applications.  Protect your persisted, transmitted and in-memory data and learn the terminology you'll need to navigate symmetric and public key cryptography on the Java platform.",
+        "id":150,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/152",
+        "title":"Encryption Boot Camp on the JVM",
+        "speaker":"Matthew McCullough",
+        "track":"Architecture/Security",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/152",
+                "speaker":"Matthew McCullough"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Git is an exciting new DVCS that is gaining traction in the development world.  But if you are merely using it as SVN++, then you are missing out on 75% of what it has to offer.  In a quick 15 minutes, I'll open eyes to the team-behavior improvements, bug finding, and performance that only Git offers today.",
+        "id":154,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/152",
+        "title":"Using Git to just replace SVN is like using a Ferrari to haul dirt",
+        "speaker":"Matthew McCullough",
+        "track":"Methodology",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/152",
+                "speaker":"Matthew McCullough"
+            }
+        ],
+        "type":"Quickie (15m)"
+    },
+    {
+        "summary":"Cloud computing is uncovering the weaknesses in the old three-tier web application model. Though server-side Java was built around this model, features of the Java programming language can help you build next-generation web systems that leverage different storage types and operate in a rapidly changing environment.\r\n\r\nIn this talk, I will cover some real world, highly scalable Java applications that leverage key characteristics of cloud-scale programming:\r\n\r\n* Using the best storage engine for the task at hand\r\n* Distributed application components running in VM isolation\r\n* When to use message queues for distributed communication\r\n* Addressing weaknesses in Java for cloud-scale systems",
+        "id":155,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/153",
+        "title":"Designing Java Systems to Operate at a Cloud Scale",
+        "speaker":"George Reese",
+        "track":"Cloud/NoSQL",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/153",
+                "speaker":"George Reese"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"This talk introduces a little tool that mixes a dash of functional flavour into Java 6. With jcurry (http://jcurry.org), most class members can be made into first-class curried functions with just the addition of an annotation. This talk will present the concept with some simple examples, delve just a little into how it works, and explore how it all relates to the wider context of programming style and Java 7 closures.",
+        "id":157,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/138",
+        "title":"First class curried members with jcurry",
+        "speaker":"George Svarovsky",
+        "track":"Java Core (SE/EE)",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/138",
+                "speaker":"George Svarovsky"
+            }
+        ],
+        "type":"Quickie (15m)"
+    },
+    {
+        "summary":"Cassandra by Example will teach you how to design a Cassandra data model for your application.  We will cover general principles as well as examples from porting a toy Twitter clone from SQL to Cassandra, with code samples using Hector, the Java Cassandra client.\r\n\r\nFinally, we will cover the basics of performance tuning and troubleshooting a production Cassandra cluster.",
+        "id":161,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/157",
+        "title":"Cassandra by Example",
+        "speaker":"Jonathan Ellis",
+        "track":"Cloud/NoSQL",
+        "experience":"EXPERT",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/157",
+                "speaker":"Jonathan Ellis"
+            }
+        ],
+        "type":"University (3h)"
+    },
+    {
+        "summary":"Cassandra is the leading technology for scalable OLTP applications.  Cassandra seamlessly and transparently scales from one machine to hundreds, and has unmatched support for operating across multiple data centers.  Cassandra is designed from the ground up for high availabilty, and has no single points of failure.\r\n\r\nThis talk will introduce Cassandra's architecture and data model, and explore some examples of companies using Cassandra in production.",
+        "id":162,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/157",
+        "title":"Introduction to Cassandra",
+        "speaker":"Jonathan Ellis",
+        "track":"Cloud/NoSQL",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/157",
+                "speaker":"Jonathan Ellis"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Spring started off to greatly increase the developer productivity; and as you all know successfully delivered on that promise. But there is more SpringSource can do to make your life as a developer more productive. In this session, we will demo current state-of-art developer tools for Spring such as Spring Roo, Spring IDE and Spring Insight. We will explain how these free tools can help you along the build-run-manage lifecycle of your application and prepare you for the cloud adventure.",
+        "id":164,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/159",
+        "title":"Spring Developer Tools to push your Productivity",
+        "speaker":"Christian Dupuis",
+        "track":"Java Core (SE/EE)",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/159",
+                "speaker":"Christian Dupuis"
+            }
+        ],
+        "type":"Tools in Action (30m)"
+    },
+    {
+        "summary":"Come and see the latest developments in Groovy and Grails tooling for Eclipse.  We'll look at the great Groovy editing experience based around a sophisticated inferencing engine, and also how support is now in place for many of the standard Eclipse features that developers are so used to when working with their Java code: formatting, refactoring, javadoc, task tags, debugging (incl. hotswap).  Building on Groovy we'll then look at the latest Grails development features (including plugin management, navigation, gsp editing, local plugin support).",
+        "id":165,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/159",
+        "title":"Groovy/Grails Development in Eclipse",
+        "speaker":"Christian Dupuis",
+        "track":"New Languages on the JVM",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/159",
+                "speaker":"Christian Dupuis"
+            }
+        ],
+        "type":"Tools in Action (30m)"
+    },
+    {
+        "summary":"The 'new web' is about user-centric UIs, about improved state management, and about fast prototyping of flexible web applications. However, non-functional requirements for web-centric ventures are also about providing scalability and availability without much extra cost. Scaling out to the cloud has become a hard requirement for all internet development, in order to allow business growth without expensive re-architecture.\r\n\r\nIn this 30 minute session, we will show some of the hard challenges to be met when building large-scale web applications, and how a pragmatic REST approach can come to the rescue. We will explain how to combine Kauri (a modular RESTful webapp framework) with Lily (a scalable content store based on HBase, Hadoop and SOLR) to create a modern web internet infrastructure that scales well.",
+        "id":166,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/160",
+        "title":"Scalable and RESTful web applications: at the crossroads of Kauri and Lily",
+        "speaker":"Marc Portier",
+        "track":"Web Frameworks",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/160",
+                "speaker":"Marc Portier"
+            }
+        ],
+        "type":"Tools in Action (30m)"
+    },
+    {
+        "summary":"When you mix together sysadmins and code-monkeys, you get a weird cocktail called \"dev/ops\" - development and operations. Pulled from the successful practices of high-scale web companies like flickr and enterprises developing on the bleeding edge of application delivery, the promise is to make the lives of each better and, hopefully, allow their organizations to deliver better software, faster, and more frequently. dev/ops theory is still new - even shorter in its buzzword pants than \"cloud\"! Still, this evolving body of theory, practice, and tools looks extremity attractive.\r\n\r\nIn this session, Michael Coté and John Willis (the co-hosts of the popular IT Management & Cloud Podcast) will catch you up on what dev/ops is looking like and how it might help (or harm!) you. This session will give you a pragmatic overview of dev/ops and leave with a better idea of how dev/ops applies to you and your organization.\r\n\r\nIf you have heard the term devops and it either offends, amusing or intrigues you, please plan to spend an hour with Michael and John in this session.",
+        "id":168,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/167",
+        "title":"Does dev/ops matter for me?",
+        "speaker":"Michael Cote",
+        "track":"Cloud/NoSQL",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/167",
+                "speaker":"Michael Cote"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/230",
+                "speaker":"John Willis"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"As a software developer, what does cloud computing really, pragmatically mean for you? Technologies used by public web companies and now cloud computing are looking to offer a new way to deliver applications by addressing deployment and provisioning concerns. Agile software development has sped up the actual development of software, and now the bottle-neck is in operations who\u2019re not always able to deploy software at the same velocity that Agile teams ship code. What do these technologies look like, are they realistic, and how might they effect your organization?\r\n\r\nRedMonk's Michael Coté will tell you how to start benefiting from cloud computing without getting lost by hype or fleeced by vendors looking to cloud-wash their legacy offerings.",
+        "id":169,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/167",
+        "title":"Pragmatic Cloud Computing, or, Dealing with Morlocks, or, Agile Infrastructure",
+        "speaker":"Michael Cote",
+        "track":"Cloud/NoSQL",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/167",
+                "speaker":"Michael Cote"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Continuous integration may seem to be a good thing to do. But not everyone agree. This talk will first try to establish what continuous integration is and then move on to explore some important benefits along with some common problems and how to tackle them. It will both serve as an introduction for the ignorant and as a booster for the wannabee.",
+        "id":173,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/66",
+        "title":"Continuous integration essentials",
+        "speaker":"Fredrik Rubensson",
+        "track":"Methodology",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/66",
+                "speaker":"Fredrik Rubensson"
+            }
+        ],
+        "type":"Quickie (15m)"
+    },
+    {
+        "summary":"With the completed acquisition of Sun Microsystems by Oracle in January 2010, several people were left wondering what would happen to the GlassFish open source application server. Conscious that the community was worried about what new employer of the majority of GlassFish contributors would do with the project, Oracle communicated a roadmap two months after the acquisition to reaffirm its investment and commitment.\r\n\r\nThis BOF will cover where GlassFish stands today with full support of the new Java EE 6 specification, OSGi modularity but will also take the audience through what is in store for the future of the community of open source product such as clustering in the 3.1 release.\r\n\r\nWe will also present how recent external contributions helped shape GlassFish features (SERLI's application versioning feature is a very likely candidate for this) and discuss how the community could encourage even more participation.",
+        "id":177,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/182",
+        "title":"The future of the GlassFish community",
+        "speaker":"Alexis Moussine-Pouchkine",
+        "track":"Java Core (SE/EE)",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/182",
+                "speaker":"Alexis Moussine-Pouchkine"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"Java EE as a platform can be intimidating, just by the mere list of JSR's is includes. This session will be a pragmatic demonstration illustration key concepts (unified injection, simplified presentation, RESTful service and enhanced business logic) in a single end-to-end demonstration.",
+        "id":179,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/182",
+        "title":"From zero to Java EE 6 in 30 minutes and zero slides",
+        "speaker":"Alexis Moussine-Pouchkine",
+        "track":"Java Core (SE/EE)",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/182",
+                "speaker":"Alexis Moussine-Pouchkine"
+            }
+        ],
+        "type":"Tools in Action (30m)"
+    },
+    {
+        "summary":"A pragmatic look on how to achieve easy gains in a Spring application through caching. This session will analyze the usual bottlenecks found in common application stacks and ways to address them. Various caching patterns will be discussed, with focus not just on performance but also scalability. \r\n\r\nNote to committee: In this presentation we'd like to showcase a new project currently in development at SpringSource that provides various caching services to Java applications.",
+        "id":180,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/37",
+        "title":"Improve the performance of your Spring app",
+        "speaker":"Costin Leau",
+        "track":"Java Core (SE/EE)",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/37",
+                "speaker":"Costin Leau"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"If you are a Java EE 6 user, your choices for Tooling have never been better. Maybe you have been using a specific tool forever (NetBeans, Eclipse, IntelliJ), and do not have the time of the energy to learn a new one? Join this talk to see the latest developments in the following IDEs around Java EE 6:\r\n\r\n- NetBeans and its advanced Java EE 6 GlassFish integration\r\n- Eclipse and the Oracle OEPE pack with GlassFish integration, as well as the latest features in the Eclipse December 2010 release (with hopefully more Java EE6 features)\r\n- Intellij and its EE 6 support.\r\n\r\nThe talk will use live demos of the 3 IDEs, presenting advanced features for the EE 6 developer:\r\nJPA2, JSF 2, CDI, JAX-RS, Bean Validation, Servlet 3.0, Maven support, and end to end advanced wizards.",
+        "id":186,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/195",
+        "title":"Java EE 6: Tooling Status: what am I missing?",
+        "speaker":"Ludovic Champenois",
+        "track":"Java Core (SE/EE)",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/195",
+                "speaker":"Ludovic Champenois"
+            }
+        ],
+        "type":"Tools in Action (30m)"
+    },
+    {
+        "summary":"Learn about Activiti and how you can benefit from the BPM and workflow features in your next Java project.  \r\n\r\nOne aspect of Business Process Management (BPM) is to facilitate the collaboration between business people and developers.\r\n\r\nBut also developers find it often just the simplest way to implement their requirements.  When dealing with task lists, timers and asynchronous messages, it can be a challenge to bind all the hooks and eyes together.  In these asynchronous architectures, Activiti is at its best.  \r\n\r\nWith Activiti, developers can create an overview diagram that represents the overall transactional control flow.  We'll show how easy it is to link this process to your Java domain logic classes.\r\n\r\nAnother interesting aspect of using Activiti is that you get the valuable history analysis reports and audit logs for free.  For example, how many successful deals did we have for each region in less then 20 days.  Or who gave permission for this purchase and what was the motivation.  By default, the Activiti engine collects information for each process execution.  \r\n\r\nIn this session we'll demonstrate these features as well as the different components of the Activiti project.",
+        "id":205,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/214",
+        "title":"Activiti in Action",
+        "speaker":"Tom Baeyens",
+        "track":"Architecture/Security",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/214",
+                "speaker":"Tom Baeyens"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/245",
+                "speaker":"Joram Barrez"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"The new OSGi Alliance Enterprise Specifications release provides definitions and guidance for a number of enterprise technologies, and has led to a sudden growth in the number of runtimes offering an OSGi container such as Apache Aries, IBM's WebSphere Application Server, Oracle GlassFish Server, Eclipse Virgo and many others. \r\n\r\nThe presenter will use his experience as an OSGi Enterprise Expert Group member and as an Apache Aries committer to provide an overview of the new OSGi standards that are brought together by the Apache Aries project. They will then be combined in a lightning-fast demonstration to produce a working OSGi application, complete with enterprise-level managed transactions and container managed JPA.",
+        "id":206,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/216",
+        "title":"A crash course in OSGi application development",
+        "speaker":"Timothy Ward",
+        "track":"Java Core (SE/EE)",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/216",
+                "speaker":"Timothy Ward"
+            }
+        ],
+        "type":"Quickie (15m)"
+    },
+    {
+        "summary":"This talk will be an overview of HBase, update of the current project status and future work, and a discussion of HBase in production.  Drawing from real world use cases, it will cover what makes HBase different from other NoSQL projects, when it might make sense to use HBase, and how HBase is actually being used right now.",
+        "id":207,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/218",
+        "title":"HBase Today",
+        "speaker":"Michael Stack",
+        "track":"Cloud/NoSQL",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/218",
+                "speaker":"Michael Stack"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"This class will be taught by two HBase committers. We'll cover the following topics:\r\n          o When is HBase appropriate?\r\n          o HBase Architecture\r\n          o HBase Data Model\r\n          o Schema Modelling\r\n          o APIs including MapReduce Integration\r\n          o Installing HBase\r\n          o Filters and Coprocessors\r\n          o Replication\r\n          o Hive Integration",
+        "id":208,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/218",
+        "title":"Introduction to HBase",
+        "speaker":"Michael Stack",
+        "track":"Cloud/NoSQL",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/218",
+                "speaker":"Michael Stack"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/177",
+                "speaker":"Jonathan Gray"
+            }
+        ],
+        "type":"University (3h)"
+    },
+    {
+        "summary":"MongoDB (from \"humongous\") is a high-performance, open source, schema-free, non-relational, document-oriented database. We'll present the fundamental principles of MongoDB, how to set up and interact with the database, and what to consider when building applications using a document-based data model. We'll contrast MongoDB with relational databases and with some NoSQL counterparts. This workshop will cover:\r\n \r\n    * How to install and configure MongoDB\r\n    * Basic administration via MongoDB's JavaScript console\r\n    * How the MongoDB drivers work, and how to use them to build applications\r\n    * Data modeling with MongoDB documents\r\n    * When to use MongoDB, when another database type might be a better choice\r\n    * Scaling with MongoDB (master/slave configurations and auto-sharding)\r\n    * Unique database features, including capped collections, large file storage, and atomic updates",
+        "id":216,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/296",
+        "title":"Building Web Applications with MongoDB",
+        "speaker":"Roger Bodamer",
+        "track":"Cloud/NoSQL",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/296",
+                "speaker":"Roger Bodamer"
+            }
+        ],
+        "type":"University (3h)"
+    },
+    {
+        "summary":"This session is split into two parts.\r\n\r\nFirst part will focus on how JAX-RS integrates with Java EE 6. Specifically how JAX-RS may be utilized with Servlet 3.0, CDI 1.0 and EJB 3.1. Live coding demonstrations will be presented. Developers will learn how to use JAX-RS with Java EE 6.\r\n\r\nThe second part will focus on the future of JAX-RS such as what may be in scope for a JAX-RS 2.0 effort in the Java Community Process and the potential for JAX-RS to integrate with other technologies.\r\n\r\nWith respect to the latter the focus will be on how JAX-RS can integrate with asynchronous processing using Comet and Web Socket using Jersey (the JAX-RS implementation that provides the Reference Implementation) and Atmosphere (a high-level portable asynchronous framework). A live coding demonstration will be presented.",
+        "id":217,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/224",
+        "title":"JAX-RS, Java EE 6, and the future",
+        "speaker":"Paul Sandoz",
+        "track":"Java Core (SE/EE)",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/224",
+                "speaker":"Paul Sandoz"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Some call this phenomenon devops, others agile system administration truth is that agile techniques used in development have an impact on the way operations organizes it work. Similar, operations and sysadmins are becoming programmers because of the virtualization and automation trend where everything is managed through an API.\r\n\r\nThis talk will summarize the different ideas behind DevOps, and will show that this goes beyond tooling and becomes a way of thinking, where ultimately both developers and sysadmins will stand together to support the business.",
+        "id":229,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/205",
+        "title":"From Dev/Ops to DevOps. Amazing the difference one character can make.",
+        "speaker":"Patrick Debois",
+        "track":"Cloud/NoSQL",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/205",
+                "speaker":"Patrick Debois"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/115",
+                "speaker":"Kris Buytaert"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Gathering of the Geomajas core development team with users. After a brief introduction to the framework, we would like to discuss problems which have been encountered using the framework (including solutions), discuss suitability of the framework for people who want to know whether Geomajas would help them solve their problems and get an idea of the communities wishes for future evolution of Geomajas (roadmap).",
+        "id":233,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/185",
+        "title":"Geomajas web mapping users meeting",
+        "speaker":"Joachim Van der Auwera",
+        "track":"Web Frameworks",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/185",
+                "speaker":"Joachim Van der Auwera"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"Introduction to Geomajas.\r\n\r\nGeomajas is the extensible open source web mapping framework, enabling integrated GIS solutions for business and government.\r\n\r\nIt has an integrated client-server architecture, with a high focus on server-side integration of your data. This means you can apply security and business logic on the server before anything gets send to the client, resulting in robust applications and a thin client.",
+        "id":237,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/185",
+        "title":"Introduction to the Geomajas web mapping framework",
+        "speaker":"Joachim Van der Auwera",
+        "track":"Web Frameworks",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/185",
+                "speaker":"Joachim Van der Auwera"
+            }
+        ],
+        "type":"Quickie (15m)"
+    },
+    {
+        "summary":"Google Web Toolkit (GWT) 2.0 is out and it's a major upgrade from 1.x. Google is using GWT 2.0 for two prominent Google applications: Wave and AdSense. This session will show you how to take advantage of new GWT 2.0 features to implement rich internet applications. In the session, you'll learn: \r\n\r\n* How to make your application faster with Speed Tracer \r\n* How to build your UI in XML with UIBinder \r\n* How to use GWT's history mechanism \r\n* Advanced aspects of GWT development",
+        "id":244,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/231",
+        "title":"Google Web Toolkit, Take 2: Implementing Awesome Rich Internet Applications",
+        "speaker":"David Geary",
+        "track":"Web Frameworks",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/231",
+                "speaker":"David Geary"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"I will discuss our experiences using Hadoop, HBase, Cassandra, and Pig to scale Twitter's analytics platform. This talk will focus on the practical aspects of working at scale -- the architecture, what works, what doesn't, and the software we've open-sourced to make things easier for others.",
+        "id":246,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/154",
+        "title":"Hadoop and NoSQL at Twitter",
+        "speaker":"Dmitriy Ryaboy",
+        "track":"Cloud/NoSQL",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/154",
+                "speaker":"Dmitriy Ryaboy"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"We've been working with Hadoop and HBase since 2008. In this talk we'll go through different uses cases of computational problems, such as analytics, business intelligence, machine learning on large volumes of data including logs, Flash, image and video metadata, etc. describing some of the most interesting aspects in each case and highlighting implementation details such as schema design and processing techniques.",
+        "id":259,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/133",
+        "title":"Big Data with HBase and Hadoop at Adobe",
+        "speaker":"Cosmin Lehene",
+        "track":"Cloud/NoSQL",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/133",
+                "speaker":"Cosmin Lehene"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Get introduced to Vaadin open source web framework by its founder. The framework provides a desktop-like user experience on the web without writing any HTML, XML or JavaScript. The user interface is written completely in Java and run at the server-side. Applications are deployed as Servlets, Portlets or to Google App Engine and run in any modern web browser without plug-ins or applets.\r\n\r\nJava-developers interested in writing rich desktop-like user interfaces for web should attend - no experience of web technologies is needed.\r\n\r\n- Get introduced to server-side RIA frameworks\r\n- Learn pros and cons compared to client-side RIA and Google Web Toolkit\r\n- Start writing beautiful web applications with Vaadin",
+        "id":261,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/240",
+        "title":"Vaadin - Rich Web Applications in Java without Plug-ins or JavaScript",
+        "speaker":"Joonas Lehtinen",
+        "track":"Web Frameworks",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/240",
+                "speaker":"Joonas Lehtinen"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Once you get used to use Scala's bigger toolbox it will strike you how much a Java programmer has to please the language instead of solving the problems at hand. But even if your organisation forces you to use Java, learning Scala will change the way you swing your Golden Java Hammer. You'll start to mimic programming concepts that Scala smoothly introduces in your Java code and have pain that some can't be achieved easily. Immutable instances, small methods without side-effects and small classes are signs of a programmer thinking in Scala, even though Java makes it slightly harder to program that way. \r\nThe pain comes when you got used to Scala's ways of object composition and the often cited closures. \r\nJava let's you do the same things - if you really want to. Java's boilerplate code will hide what you try to achieve. Achieving programming concepts you have at hand with Scala in pure Java does rarely bear its weight.\r\nIn this talk we'll go through some of the things a Scala-trained programmer will start to use in Java. We'll look at the things you can achieve easily and show examples for when you'll miss Scala. A lot.",
+        "id":266,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/192",
+        "title":"Programming in pain",
+        "speaker":"Enno Runne",
+        "track":"New Languages on the JVM",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/192",
+                "speaker":"Enno Runne"
+            }
+        ],
+        "type":"Quickie (15m)"
+    },
+    {
+        "summary":"Web 2.0 technologies have made it possible to migrate traditional desktop applications to the Web, resulting in a rich and dynamic user experience and in expanded functionality. Similarly, RESTful Web services have become a commonly used model for exposing services and their APIs on the Web. As a result, a potentially large amount of personal, sensitive, and valuable data is put online, spread across various Web services. \r\n\r\nWith the increasing number of resources and services accessible over the Web, software developers are forced to provide more sophisticated and more user-friendly authentication and authorization mechanisms. Support for delegated authentication, such as OpenID, is well-supported by existing frameworks and libraries. Authorization, on the other hand, lacks a comparable support and is commonly built into existing applications or delegated using protocols that are not suitable for the open Web environment.\r\n\r\nUser Managed Access (UMA), a standardisation effort from the Kantara Initiative that is closely related to the recently emerging OAuth V2.0 protocol from IETF, proposes a new approach to access management for Web resources that includes a user as a core part of its model. UMA lets an individual control the authorization of data sharing and service access made between online services on the individual's behalf. It provides benefits for both users and application developers. The latter ones, in particular, can benefit from providing authorization mechanisms and sharing capabilities to their new or existing applications without the need of building these mechanisms by themselves.\r\n\r\nIn this talk, we aim to review existing solutions to authorization for Web applications and Web services. We will introduce UMA and explain how it builds on such protocols as OAuth V2.0 and OAuth WRAP. We will then present UMA/j \u2013 a purely Java-based open-source framework that helps developers to delegate authorization from their Web applications and Web services to specialized software components. We will also demo an exemplar UMA system built with the UMA/j library that is planned to be deployed within Newcastle University to provide access control mechanisms for over 19,000 students and 4,500 staff members.",
+        "id":269,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/207",
+        "title":"Introduction to UMA/j \u2013 User Managed Access framework",
+        "speaker":"Maciej Machulak",
+        "track":"Architecture/Security",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/207",
+                "speaker":"Maciej Machulak"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/212",
+                "speaker":"Lukasz Moren"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"Web 2.0 technologies have made it possible to migrate traditional desktop applications to the Web, resulting in a rich and dynamic user experience and in expanded functionality. Similarly, RESTful Web services have become a commonly used model for exposing services and their APIs on the Web. As a result, a potentially large amount of personal, sensitive, and valuable data is put online, spread across various Web services. \r\n\r\nWith the increasing number of resources and services accessible over the Web, software developers are forced to provide more sophisticated and more user-friendly authentication and authorization mechanisms. Support for delegated authentication, such as OpenID, is well-supported by existing frameworks and libraries. Authorization, on the other hand, lacks a comparable support and is commonly built into existing applications or delegated using protocols that are not suitable for the open Web environment.\r\n\r\nUser Managed Access (UMA), a standardisation effort from the Kantara Initiative that is closely related to the recently emerging OAuth V2.0 protocol from IETF, proposes a new approach to access management for Web resources that includes a user as a core part of its model. UMA lets an individual control the authorization of data sharing and service access made between online services on the individual's behalf. It provides benefits for both users and application developers. The latter ones, in particular, can benefit from providing authorization mechanisms and sharing capabilities to their new or existing applications without the need of building these mechanisms by themselves.\r\n\r\nIn this session we aim to present UMA/j \u2013 a purely Java-based open-source UMA framework that helps developers to delegate authorization from their Web applications and Web services to specialized software components. We will discuss best practices of using this framework in existing Web applications and show a demo of an exemplar UMA system built with the UMA/j library that is planned to be deployed within Newcastle University to provide access control mechanisms for over 19,000 students and 4,500 staff members.",
+        "id":270,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/207",
+        "title":"Introduction to UMA/j \u2013 User Managed Access framework",
+        "speaker":"Maciej Machulak",
+        "track":"Architecture/Security",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/207",
+                "speaker":"Maciej Machulak"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/212",
+                "speaker":"Lukasz Moren"
+            }
+        ],
+        "type":"Tools in Action (30m)"
+    },
+    {
+        "summary":"An unconference is a format where the group chooses the topics open for discusion and than will discuses these in smaller groups (max 6 people per group). After 15 to 20 minutes a short planair session is done in order to talk about the results of the discusion than a new topic is choosen and the groups are rearranged.\r\n\r\nNext to the speaker more members of Duchess will also be present.",
+        "id":272,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/219",
+        "title":"Women in IT an unconference",
+        "speaker":"Regina ten Bruggencate",
+        "track":"Other",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/219",
+                "speaker":"Regina ten Bruggencate"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"UI is typically created by declaring its elements in XML or HTML and hooking them into Java code later. While both XML and declarative style has its followers, it also carries its own bag of problems (such as fragile dependancy on String-based bindings, excessive typing of angle brackets known as chevronitis and general inflexibility once the layout gets complicated). This talk is an introduction to an alternative approach, which is programatic instantiation of the UI. While this sounds complicated and tedious at first glance, it is not. This is generic technique, that might be used in any Java-based environment (or elsewhere), but the talk will focus on two prominent frameworks : the bulk of the concepts is explained on Android mobile platform, which is a perfect candidate : mobile UI is typically quite simple, but faces the specific set of challenges, and Android is also - by design - very XML centric, so this talk offers a \"second string\". Another platform mentioned is Google Widget Toolkit to prove the approach presented in this talk can be applied in various stages.\r\nPresentation offers graceful introduction for beginners, as elevant parts of the Android framework are examined (an anatomy of a ViewGroup), while the bulk of talk disserts how leverage the power Java language to create rich, flexible and attractive UI programatically and do it in effective and comprehensible way. Contrasts to traditional, XML-based approach is highlighted, especially in the problematic areas of the original method. More advanced topics are also touched, such as automatic UI generation by introspecting annotated Java object, but the talk remains within the scope of general, beginners to intermediate Java developers audience. The presentation is quite short (within 30 minutes limit) and has several examples and demos of actual, working code. In summary : this talk would give you a food for thought if you intuitively feel there is something wrong with the declarative UI and its linking to the Java code, and also prove that Java is great language even for the front-end coding.",
+        "id":276,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/242",
+        "title":"Programatic UI - how to build UI and avoid acute chevronitis",
+        "speaker":"Pavel Lahoda",
+        "track":"Web Frameworks",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/242",
+                "speaker":"Pavel Lahoda"
+            }
+        ],
+        "type":"Tools in Action (30m)"
+    },
+    {
+        "summary":"Seam is a powerful open source development platform for building rich Internet applications in Java EE, now rebuilt on JSR-299: Contexts and Dependency Injection for Java EE. JSR-299 is an elegant set of new services that include dependency injection, contextual lifecycle management, configuration, interceptors and event notification. While these services are familiar, the innovative use of meta-annotations is uniquely expressive and typesafe, and a significant step forward from Seam 2. The implementation of this new programming model is provided by Weld. Seam extends the CDI programming model by providing portable enhancements, extensions and integrations that tie technologies such as Java Persistence 2 (JPA), Enterprise JavaBeans (EJB 3.1), JavaServer Faces 2 (JSF), Business Process Management (BPM), business rules (Drools), reporting (PDF and Excel), security and e-mail templates into a unified full-stack solution, supported by sophisticated tooling.\r\n\r\nIn this session, Pete Muir and Dan Allen, two of the lead Seam developers, detail the state of the union for Seam 3. We'll cover how it's being reachitected on JSR-299, cover its new modularized and autonomous infrastructure and provide an overview of features, both migrated and new. This talk has a nice blend of theory and application. Audience members will take away from this talk and understanding of CDI and Seam 3 and knowledge to get their hands dirty and started developing with this platform.",
+        "id":278,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/244",
+        "title":"Seam 3: State of the Union",
+        "speaker":"Dan Allen",
+        "track":"Web Frameworks",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/244",
+                "speaker":"Dan Allen"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/295",
+                "speaker":"Pete Muir"
+            }
+        ],
+        "type":"University (3h)"
+    },
+    {
+        "summary":"This talk will discuss real world production use cases of Hadoop, HBase, and Hive.  The characteristics of each system will be explained in the context of how they can be used together to build large scale data infrastructure that blurs the line between realtime applications and data warehouses.",
+        "id":283,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/177",
+        "title":"Hadoop, HBase, and Hive in Production",
+        "speaker":"Jonathan Gray",
+        "track":"Cloud/NoSQL",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/177",
+                "speaker":"Jonathan Gray"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Guillaume Laforge, the Groovy project lead, will guide you through all the latest and greatest innovations in the language: new AST transformations, new APIs, and more, to make you a more productive Java developer. Some glimpses of what the future holds for Groovy will also be unveiled. Then, Guillaume will update you about the great active and rich ecosystem around Groovy, with many useful libraries for testing, build, code quality, and for building desktop and web applications. And we'll finish our whirlwind tour of the Groovy world diving into a gem in this ecosystem: Gaelyk, or how to skyrocket Groovy into the cloud, on Google App Engine!",
+        "id":284,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/6",
+        "title":"Groovy update, ecosystem, and skyrocketing to the cloud with App Engine and Gaelyk!",
+        "speaker":"Guillaume Laforge",
+        "track":"New Languages on the JVM",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/6",
+                "speaker":"Guillaume Laforge"
+            }
+        ],
+        "type":"University (3h)"
+    },
+    {
+        "summary":"The Java Persistence API is the standard API for object-relational mapping for Java EE and Java SE.  In response to requests from the community, it has been expanded in release 2.0 to include a number of significant new features.\r\n\r\nThis session will present the key new functionality available in Java Persistence 2.0.  We will dive into the new object-relational mapping and modeling features, the additions to the Java Persistence query language, pessimistic locking, support for validation, and caching and other configuration options.  We'll conlude with a discussion of future directions.",
+        "id":285,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/197",
+        "title":"Java Persistence 2.0",
+        "speaker":"Linda DeMichiel",
+        "track":"Java Core (SE/EE)",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/197",
+                "speaker":"Linda DeMichiel"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"The new Criteria API is one of the most significant additions to JPA in the JPA 2.0 release.  This API enables the writing of both static and dynamic object-based queries, and provides all of the functionality of the Java Persistence query language and more.\r\n\r\nThis session will provide an overview both of the Criteria API as well as the new JPA Metamodel API, which provides the foundation for the type-safety of criteria queries.\r\n\r\nTopics to be covered include the following:\r\n\r\n* Overview of the core query construction interfaces\r\n* How to construct, deconstruct, or reconstruct a criteria query\r\n* The JPA metamodel API and its role in defining type-safe queries\r\n* New APIs for type-safe query execution\r\n* Relationship to the Java Persistence query language",
+        "id":286,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/197",
+        "title":"The Java Persistence Criteria API",
+        "speaker":"Linda DeMichiel",
+        "track":"Java Core (SE/EE)",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/197",
+                "speaker":"Linda DeMichiel"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"JPA Futures BOF",
+        "id":287,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/197",
+        "title":"JPA Futures",
+        "speaker":"Linda DeMichiel",
+        "track":"Java Core (SE/EE)",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/197",
+                "speaker":"Linda DeMichiel"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"Learn how to use Apache Wicket to create web applications on your own from the masters. This hands-on lab will provide a quick introduction to the Wicket framework and we'll start with coding right away. At the basis for this course lies the Wicket in Action book, written by the course leader. We'll start with setting up our project, move on from a simple hello world application to implementing an online cheese store. We'll learn to connect it to services delivered by Spring and a back end served with a JPA provider (Hibernate or OpenJPA). During this course we'll cover the end-to-end basics of web application development: unit testing, writing maintainable code, internationalization, security and deployment.",
+        "id":291,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/56",
+        "title":"Introducing Wicket",
+        "speaker":"Martijn Dashorst",
+        "track":"Web Frameworks",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/56",
+                "speaker":"Martijn Dashorst"
+            }
+        ],
+        "type":"University (3h)"
+    },
+    {
+        "summary":"Successor to the popular \u201cExtreme GUI Makeover\u201d presentations, Java rockstars Jasper Potts and Richard Bair take a boring enterprise UI and completely rebuild it in JavaFX to be faster, slicker, and incredibly more usable. Today\u2019s customers demand rich, usable, productive GUIs. JavaFX excels at creating such GUIs in a fun, productive programming environment built on the power of Java.",
+        "id":293,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/264",
+        "title":"From Shabby to Chic",
+        "speaker":"Richard Bair",
+        "track":"Desktop/RIA/Mobile",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/264",
+                "speaker":"Richard Bair"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/317",
+                "speaker":"Jasper Potts"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"A tremendous amount of work and progress has gone into the recent releases of JavaFX, including a powerful new media implementation, dramatically improved performance and memory footprint, a host of new UI controls, support for 3D transforms, improved user experience, powerful CSS styling support and a lot more. This session will bring you up to date with the latest technology in JavaFX and a look ahead to the next major release of JavaFX.",
+        "id":295,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/264",
+        "title":"JavaFX",
+        "speaker":"Richard Bair",
+        "track":"Desktop/RIA/Mobile",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/264",
+                "speaker":"Richard Bair"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/317",
+                "speaker":"Jasper Potts"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"JavaFX experts Jasper Potts, Jonathan Giles, and Richard Bair start with the basics in this introduction to JavaFX spanning the JavaFX Script language, scenegraph, UI controls, animations, graphics, media, storage, web services, and other core APIs that make up the JavaFX platform. JavaFX was built by application developers for application developers. Come see how using JavaFX can change the way you develop.",
+        "id":296,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/264",
+        "title":"JavaFX 101",
+        "speaker":"Richard Bair",
+        "track":"Desktop/RIA/Mobile",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/264",
+                "speaker":"Richard Bair"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/317",
+                "speaker":"Jasper Potts"
+            }
+        ],
+        "type":"University (3h)"
+    },
+    {
+        "summary":"At the end of the year 2000, while the dot-com bubble was imploding, Heinz Kabutz used his free time to start a hobby of writing advanced newsletters for Java specialists. Initially, this publication was sent to 80 of his friends and coworkers. It rapidly achieved cult status and is now read in 120 countries by more than 50,000 Java enthusiasts. To date, he has published almost 200 newsletters. In this session, Kabutz will show seven of his most popular and interesting newsletters. Topics will range from Java performance to language tricks to Java concurrency.",
+        "id":297,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/265",
+        "title":"10 Years of The Java Specialists' Newsletter",
+        "speaker":"Heinz Kabutz",
+        "track":"Java Core (SE/EE)",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/265",
+                "speaker":"Heinz Kabutz"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"In this presentation, we will look at some advanced uses of reflection to delegate method calls automatically, to determine where we are being called from and to create new enum values dynamically for unit test purposes, including modifying the switch statements on-the-fly.  We will look at how we can use the stack information to determine the class  type in a static context.  We will demonstrate how Externalizable allows the private state of an object to be read and then modified. Lastly we will demonstrate how we can construct new objects without calling any of the available constructors.  This talk will be aimed at the advanced Java specialist who does not shy away from reflection code.  Topics from the Java Specialists Newsletter and related research.",
+        "id":298,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/265",
+        "title":"Reflection Madness",
+        "speaker":"Heinz Kabutz",
+        "track":"Java Core (SE/EE)",
+        "experience":"EXPERT",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/265",
+                "speaker":"Heinz Kabutz"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Project Voldemort is an open source key/value storage solution inspired by Amazon's Dynamo paper. This talk will cover the features, basic usage, design, uses cases (at LinkedIn and elsewhere) and application design patterns for building products that use Voldemort. Will also present the history and development roadmap of Voldemort.",
+        "id":299,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/266",
+        "title":"Project Voldemort - Reliable distributed storage",
+        "speaker":"Alex Feinberg",
+        "track":"Cloud/NoSQL",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/266",
+                "speaker":"Alex Feinberg"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Continuous Integration is great but what happens when your builds get out of control? What happens when you have too many build plans, that take way too long to execute? How do you keep a handle on growing complexity and how do you measure and control build reliability?\r\n\r\nAs the number of features, tests, supported platforms and the number of developers and customers grows, there comes a time when you need serious engineering in your build if you want any hope of staying Agile.",
+        "id":301,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/267",
+        "title":"Monster Builds and How to Tame Them",
+        "speaker":"Chris Mountford",
+        "track":"Methodology",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/267",
+                "speaker":"Chris Mountford"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Automating your build process with Continuous Integration is great, but why stop there? Why not go the whole nine yards and automate the deployment process as well? Staging and production deployments are typically more complicated and more involved than a simple development deployment, but doing them by hand can be time-consuming, tricky and error-prone. Indeed, turning your staging and production deployments into a one-click affair has a lot going for it.",
+        "id":302,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/268",
+        "title":"Continuous Deployment - automated build pipelines with Maven, Nexus and Hudson",
+        "speaker":"John Smart",
+        "track":"Methodology",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/268",
+                "speaker":"John Smart"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Rich Internet Applications provide additional value when they can interact with back-end systems, rather than being standalone applications.\r\n\r\nDifferent types of interactions with back-end systems are possible, depending on the nature of the front-end application (RIA) and the back-end systems.\r\n\r\nRedFX is an open-source framework that provides functionality that allows JavaFX clients to share data with each other and with server applications without the need of writing lots of specific boiler plate code. The synchronization and messaging infrastructure is provided by RedFX.",
+        "id":317,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/110",
+        "title":"Using RedFX to connect JavaFX clients and Java Enterprise systems",
+        "speaker":"Johan Vos",
+        "track":"Desktop/RIA/Mobile",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/110",
+                "speaker":"Johan Vos"
+            }
+        ],
+        "type":"Tools in Action (30m)"
+    },
+    {
+        "summary":"Scala fuses object-oriented and functional programming concepts into an elegant, statically typed programming language for the Java Platform. In 2010, Scala received a major upgrade in the Scala 2.8 release. This talk will give an overview of what's new in Scala 2.8, covering topics such as the redesigned collections library, new array implementation, type specialization, named and default arguments, package objects, the revamped REPL (Scala interpreter), a new implicit resolution process, improved equality, improved annotations, enhanced actors, and support for continuations. The talk will be designed for Java programmers, so you need not already know Scala to benefit from this talk.",
+        "id":318,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/273",
+        "title":"What's New in Scala 2.8?",
+        "speaker":"Bill Venners",
+        "track":"New Languages on the JVM",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/273",
+                "speaker":"Bill Venners"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/272",
+                "speaker":"Dick Wall"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"The annual Java User Group leaders networking BOF",
+        "id":319,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/2",
+        "title":"The annual Java User Group BOF",
+        "speaker":"Stephan Janssen",
+        "track":"Java Core (SE/EE)",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/2",
+                "speaker":"Stephan Janssen"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"The Future Roadmap of Java EE",
+        "id":326,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/275",
+        "title":"The Future Roadmap of Java EE",
+        "speaker":"Roberto Chinnici",
+        "track":"Java Core (SE/EE)",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/275",
+                "speaker":"Roberto Chinnici"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"tba",
+        "id":327,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/275",
+        "title":"Java EE 7",
+        "speaker":"Roberto Chinnici",
+        "track":"Java Core (SE/EE)",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/275",
+                "speaker":"Roberto Chinnici"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"The Productive Programmer consists of two parts: mechanics & practice. In the mechanics section, I identify 4 principles of productivity: acceleration, focus, automation, and canonicality. This session defines the principles and describes their use, but the primary focus of this workshop is real-world examples of how you can use these principles to make yourself a more productive programmer. The second part of this workshop covers 10 ways to improve your code, derived from the practices section. This workshop includes tons of examples, all culled from real-world projects.",
+        "id":328,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/276",
+        "title":"Productive Programmer",
+        "speaker":"Neal Ford",
+        "track":"Methodology",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/276",
+                "speaker":"Neal Ford"
+            }
+        ],
+        "type":"University (3h)"
+    },
+    {
+        "summary":"This session describes the current thinking about emergent design, discovering design in code. The hazard of Big Design Up Front in software is that you don't yet know what you don't know, and design decisions made too early are just speculations without facts. Emergent design techniques allow you to wait until the last responsible moment to make design decisions. This talk covers four areas: emergent design enablers, battling things that make emergent design hard, finding idiomatic patterns, and how to leverage the patterns you find. It includes both proactive (test-driven development) and reactive (refactoring, metrics, visualizations, tests) approaches to discovering design, and discusses the use of custom attributes, DSLs, and other techniques for utilizing them. The goal of this talk is to provide nomenclature, strategies, and techniques for allowing design to emerge from projects as they proceed, keeping your code in sync with the problem domain.",
+        "id":329,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/276",
+        "title":"Implementing Emergent Design",
+        "speaker":"Neal Ford",
+        "track":"Methodology",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/276",
+                "speaker":"Neal Ford"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Welcome and intro to the Devoxx 2010 conference.",
+        "id":332,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/2",
+        "title":"Welcome and Intro",
+        "speaker":"Stephan Janssen",
+        "track":"Cloud/NoSQL",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/2",
+                "speaker":"Stephan Janssen"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"During this keynote you'll get an overview of the state of Java SE 7 and beyond.",
+        "id":333,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/279",
+        "title":"Java SE: The Road Ahead",
+        "speaker":"Mark Reinhold",
+        "track":"Java Core (SE/EE)",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/279",
+                "speaker":"Mark Reinhold"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Update on the Java Jigsaw project.",
+        "id":334,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/279",
+        "title":"The Modular Java Platform",
+        "speaker":"Mark Reinhold",
+        "track":"Java Core (SE/EE)",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/279",
+                "speaker":"Mark Reinhold"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Project Coin is an ongoing effort to select and implement a set of small language enhancements for JDK 7.  The language changes for JDK 7 include:\r\n\r\n* strings in switch\r\n* automatic resource management\r\n* diamond operator\r\n* multi-catch with final rethrow\r\n\r\nThis talk will discuss recommend uses of the new features and demonstrate IDE support.  Additionally, selection considerations, implementation concerns, testing methodologies, and language feature interactions will also be discussed.",
+        "id":337,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/282",
+        "title":"Project Coin: Small Language Changes in JDK 7",
+        "speaker":"Joe Darcy",
+        "track":"Java Core (SE/EE)",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/282",
+                "speaker":"Joe Darcy"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/326",
+                "speaker":"Maurizio Cimadamore"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Live recording of the JavaPosse session",
+        "id":338,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/272",
+        "title":"JavaPosse Live",
+        "speaker":"Dick Wall",
+        "track":"Java Core (SE/EE)",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/272",
+                "speaker":"Dick Wall"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/297",
+                "speaker":"Carl Quinn"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/298",
+                "speaker":"Joe Nuxoll"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Apache Hadoop is a part of a growing ecosystem of projects for large-scale data analysis. This talk will present the main components of Hadoop and related tools and how they work together.",
+        "id":339,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/287",
+        "title":"The State of Hadoop",
+        "speaker":"Tom White",
+        "track":"Cloud/NoSQL",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/287",
+                "speaker":"Tom White"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"This technical tutorial will go over the fundamentals of Hadoop: its\r\ndistributed filesystem (HDFS) and processing engine (MapReduce), as\r\nwell as looking at higher-level tools for data analytics (Pig and\r\nHive). Plenty of code examples will be provided throughout. The\r\nfollowing areas will be covered:\r\n\r\n* Moving data into HDFS.\r\n* Writing a simple MapReduce job.\r\n* Tips for writing advanced MapReduce jobs.\r\n* An introduction to Pig Latin.\r\n* Writing Hive queries.",
+        "id":340,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/287",
+        "title":"Hadoop Fundamentals: HDFS, MapReduce, Pig, and Hive",
+        "speaker":"Tom White",
+        "track":"Cloud/NoSQL",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/287",
+                "speaker":"Tom White"
+            }
+        ],
+        "type":"University (3h)"
+    },
+    {
+        "summary":"Delight your customers and impress your colleagues by delivering enterprise Spring applications faster than ever before. In this session we'll introduce Spring Roo, an open source tool that makes it easy to build applications using the Java language, standards and technologies you already know.\r\n\r\nWe present an absolutely feature packed, demonstration-oriented session which covers Spring Roo from tip to toe:\r\n\r\n\u2022 Support for Java standards such as JPA, Servlet Spec, JSP, JavaBean, JMS, JavaMail, Bean Validation etc\r\n\u2022 Scaffolded UIs using frameworks like Google Web Toolkit (GWT), Spring MVC and Adobe Flex\r\n\u2022 Automatic JUnit tests, Maven builds, JSP round tripping, toString() methods etc\r\n\u2022 Transparently reverse engineering and synchronising database schemas\r\n\u2022 Hidden treasures including Git integration, OP4J support and easy project backup\r\n\u2022 Powerful add-ons for Spring Security, Spring Integration, Neo4J, Haydes and more\r\n\u2022 How it's easy to discover and install Roo add-ons written the community, plus build your own\r\n\u2022 Remove Roo from your project in four clicks\r\n\r\nJoin Ben Alex and Stefan Schmidt - direct from the Spring Roo team in Australia - and discover how this next-generation productivity tool can dramatically simplify your development projects.",
+        "id":341,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/288",
+        "title":"Extreme Productivity with Spring Roo",
+        "speaker":"Ben Alex",
+        "track":"Web Frameworks",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/288",
+                "speaker":"Ben Alex"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/294",
+                "speaker":"Stefan Schmidt"
+            }
+        ],
+        "type":"University (3h)"
+    },
+    {
+        "summary":"The State of the Web keynote",
+        "id":342,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/290",
+        "title":"The State of the Web",
+        "speaker":"Dion Almaer",
+        "track":"Other",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/290",
+                "speaker":"Dion Almaer"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/291",
+                "speaker":"Ben Galbraith"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Grails provides a dynamic and agile development framework for web applications that is based on the most stable and productive open source libraries, including the Spring framework. This session will describe the latest features available in the new Grails 1.3 release and will describe the roadmap for upcoming releases.\r\n\r\n* What\u2019s new in Grails 1.3\r\n* Preview of what\u2019s coming in 2.0 and beyond",
+        "id":344,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/252",
+        "title":"Grails 1.3 Update",
+        "speaker":"Graeme Rocher",
+        "track":"Web Frameworks",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/252",
+                "speaker":"Graeme Rocher"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"OpenJDK's Project Lambda is exploring Java language features designed to increase the productivity of developers working with novel parallel APIs such as the Fork/Join Framework. But in fact, the features being explored will work in conjunction with any API, and strong idioms will be needed to get both performance and correctness in the face of these features. This session will cover the primary features of Project Lambda, such as lambda expressions and function types, and discuss best practices for API designers and consumers looking to use them.",
+        "id":345,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/283",
+        "title":"Project Lambda: To Multicore and Beyond",
+        "speaker":"Brian Goetz",
+        "track":"Java Core (SE/EE)",
+        "experience":"EXPERT",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/283",
+                "speaker":"Brian Goetz"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"We present our experience applying Test-Driven Development (TDD) at all levels of the development process. TDD at the class level is now well understood (if not always well practiced). We find that the benefits we get from writing tests first and using them to drive design apply at the system level too. That's why we try to address integration and system testing as early as possible. The sooner the system is in a deployable state, the better equipped we are to react to changing business needs by delivering new features.\r\n\r\nOur experience is that putting testing at the front of our development process, and paying attention to what we learn from them, flushes out architectural issues such as concurrency and distribution. The result is systems that are easier both to maintain and to support. We can also avoid some of common testing pitfalls, such as unreliability, slow execution, and brittleness.",
+        "id":347,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/271",
+        "title":"Fractal TDD - Using tests to drive system design",
+        "speaker":"Steve Freeman",
+        "track":"Methodology",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/271",
+                "speaker":"Steve Freeman"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Who is using this weird NoSQL technology? How do they look like. Worse: how do the NoSQL tool devs look like? Come and learn all about it during the NoSQL BOF @ Devoxx!",
+        "id":348,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/68",
+        "title":"The NoSQL BOF",
+        "speaker":"Steven Noels",
+        "track":"Cloud/NoSQL",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/68",
+                "speaker":"Steven Noels"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/31",
+                "speaker":"Shay Banon"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/287",
+                "speaker":"Tom White"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/266",
+                "speaker":"Alex Feinberg"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/154",
+                "speaker":"Dmitriy Ryaboy"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/157",
+                "speaker":"Jonathan Ellis"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"Informal gathering of the Seam community.",
+        "id":349,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/244",
+        "title":"Seam Gathering",
+        "speaker":"Dan Allen",
+        "track":"Java Core (SE/EE)",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/244",
+                "speaker":"Dan Allen"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/295",
+                "speaker":"Pete Muir"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"Get together for the Groovy and Grails developers.",
+        "id":350,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/6",
+        "title":"Groovy/Grails Get Together",
+        "speaker":"Guillaume Laforge",
+        "track":"New Languages on the JVM",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/6",
+                "speaker":"Guillaume Laforge"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/252",
+                "speaker":"Graeme Rocher"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"Android Q&A with Romain Guy",
+        "id":351,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/132",
+        "title":"Android Q&A",
+        "speaker":"Romain Guy",
+        "track":"Desktop/RIA/Mobile",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/132",
+                "speaker":"Romain Guy"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/129",
+                "speaker":"Chet Haase"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"Informal Scala session with Bill Venners and Dick Wall.",
+        "id":352,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/272",
+        "title":"Scala",
+        "speaker":"Dick Wall",
+        "track":"New Languages on the JVM",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/272",
+                "speaker":"Dick Wall"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/304",
+                "speaker":"Martin Odersky"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/273",
+                "speaker":"Bill Venners"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"Version 4 is a new major version with lots of new features, during this bof you'll get a more detailed update and lots of demo's of Parleys.com V4.",
+        "id":353,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/2",
+        "title":"What's new in Parleys.com Version 4",
+        "speaker":"Stephan Janssen",
+        "track":"Desktop/RIA/Mobile",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/2",
+                "speaker":"Stephan Janssen"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"Informal gathering with several JavaEE committers.",
+        "id":354,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/275",
+        "title":"The JavaEE BOF",
+        "speaker":"Roberto Chinnici",
+        "track":"Java Core (SE/EE)",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/275",
+                "speaker":"Roberto Chinnici"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/224",
+                "speaker":"Paul Sandoz"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/197",
+                "speaker":"Linda DeMichiel"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/182",
+                "speaker":"Alexis Moussine-Pouchkine"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"Informal gathering with several JavaSE committers.",
+        "id":355,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/279",
+        "title":"The state of Java SE 7",
+        "speaker":"Mark Reinhold",
+        "track":"Java Core (SE/EE)",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/279",
+                "speaker":"Mark Reinhold"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/282",
+                "speaker":"Joe Darcy"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/283",
+                "speaker":"Brian Goetz"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"Apache Camel is getting more and more attraction in the open source space as an integration framework. Also Apache Camel is getting an increased amount of attention as an integration framework within closed source solution, like IBM WebSphere, Oracle, JBoss, etc..\r\n\r\nFor that reason this talk is about how integration can be made much easier, flexible and accessible for developer by implementing Apache Camel.\r\n \r\nWe start from the beginning, 'Why' and 'How' Apache Camel got started. Then we see the influence of the Enterprise Integration Patterns (EIP) has upon Apache Camel. Showing how this applies in practice with easy to understand examples, highlighting the simplicity and power of Apache Camel.\r\nIntegrating becomes literally as simple as building routes in 'lego style' by wiring together EIP patterns, processes and transports.\r\n\r\nWe then give you an overview of the other features Apache Camel provides out of the box and as well which option you have for running your Apache Camel applications.\r\n\r\nAt the end the talk shifts focus covering the Apache Camel community showing the rising popularity of Apache Camel. As well as touching other open source projects which leverage Apache Camel in any way.",
+        "id":356,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/299",
+        "title":"Apache Camel, a powerful open source integration framework",
+        "speaker":"Claus Ibsen",
+        "track":"Architecture/Security",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/299",
+                "speaker":"Claus Ibsen"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"During this BOF, we'll walk through the relationship between cloud provisioning, configuration, and integration.  You'll be introduced to the jclouds framework, and how it helps connect provisioning to configuration and integration processes.  We'll finish up with a case study on Whirr.  You'll see how whirr can be used to provision and control clusters, such as Hadoop, via a java or commandline api.\n",
+        "id":357,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/254",
+        "title":"Clustering the clouds in java",
+        "speaker":"Adrian Cole",
+        "track":"Cloud/NoSQL",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/254",
+                "speaker":"Adrian Cole"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"The JAX-RS/REST BOF with the specification lead and enthusiasts.",
+        "id":358,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/224",
+        "title":"The JAX-RS/REST BOF",
+        "speaker":"Paul Sandoz",
+        "track":"Java Core (SE/EE)",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/224",
+                "speaker":"Paul Sandoz"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/350",
+                "speaker":"Jan Algermissen"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"We all know how patterns can be used to improve our software designs.  Most of us have read at least one pattern book.  Patterns give us a way to tell future developers what our intention was when we built the software.  However, most often, the pattern is not consistently documented.  In this talk, we will show why it is impossible to accurately determine the pattern based on the class structure.  We then introduce a new set of annotations that we use to describe our pattern usage in our code.  We end off with a case study where we annotate the famous junit framework to describe their patterns.  As you will see, our jpatterns.org annotations make the patterns stand out far more clearly, making it easier for experts and novices to work on existing code.",
+        "id":359,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/265",
+        "title":"jpatterns.org - Annotations for Pointing out Patterns in Your Code",
+        "speaker":"Heinz Kabutz",
+        "track":"Java Core (SE/EE)",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/265",
+                "speaker":"Heinz Kabutz"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"Multicore processors are on every desk now. How are we going to make use of the extra power they provide? Some think that actors or transactional memory will save the day by making concurrent programming easier and safer. Even though these are welcome, I am skeptical about their ultimate success. Concurrency is fundamentally hard and no dressing up will be able to hide that fact completely.\n\nA safer and for the programmer much simpler alternative is to treat parallel execution as essentially an optimization. A promising application area are collections. Programing by transforming and aggregating collections is simple, powerful, and can optimized by executing bulk operations in parallel. To be able to do this in practice, any side effects of parallel operations need to be carefully controlled. This means that immutable, persistent collections are more suitable than mutable ones.\n\nIn this talk I will describe the new Scala collections framework, and show how it allows a seamless migration from traditional mutable collections to persistent collections, and from there to parallel collections. I show how the same vocabulary of methods can be used for either type of collection, and how one can have parallel as well as sequential views on the same underlying collection.",
+        "id":360,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/304",
+        "title":"Future-proofing collections: from mutable to persistent to parallel",
+        "speaker":"Martin Odersky",
+        "track":"New Languages on the JVM",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/304",
+                "speaker":"Martin Odersky"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"\"Java: The State of the Union\" closing keynote by the father of Java!",
+        "id":361,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/306",
+        "title":"Java: The State of the Union",
+        "speaker":"James Gosling",
+        "track":"Java Core (SE/EE)",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/306",
+                "speaker":"James Gosling"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"This talk will describe various Java coding mistakes made by experienced developers in production code. We found thousands of serious coding mistakes in Googles Java codebase, as well as in many other codebases. Many of these reflect weaknesses or quirks of the Java language and/or APIs. You'll learn things to watch out for, and various techniques for finding the mistakes that matter, and not wasting too much time on the ones that don't.\r\n\r\nAs part of this discuss the use of of static analysis in general, and FindBugs 2.0 in particular, as well as details about how FindBugs is being used at Google.",
+        "id":362,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/307",
+        "title":"Defective Java: Mistakes that matter",
+        "speaker":"William Pugh",
+        "track":"Java Core (SE/EE)",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/307",
+                "speaker":"William Pugh"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"our users expectations are ever increasing the more they use today\u2019s rich Internet applications.  In this session, you will learn ways to meet those expectations using the Interactivity features available for BIRT reports.  \r\n\r\nWe will walk through several examples showing you how to:\r\n\r\n* Create data driven hyperlinks allowing your users richer navigation within the same report or out to a detail report. \r\n* Include a dynamic table of contents based on grouping levels of your data\r\n* Use visibility features to conditionally show or hide report sections based on parameters or report output type. \r\n* Add Interactivity to BIRT charts, including drill-through charts and tooltips. \r\n* Control table column sorting based on parameters\r\n* Include HTML with a BIRT Report and show a Google Map integrated into a BIRT report.\r\n* Customize report output based on user locale\r\n* Integrating FLASH charts\r\n* Easily add BIRT Interactive Viewer to web application using JavaScript API\r\n* Expose ad-hoc reporting capabilities to your users using BIRT Studio",
+        "id":363,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/308",
+        "title":"BIRT in Action: Adding Interactivity Features to your BIRT Reports",
+        "speaker":"Virgil Dodson",
+        "track":"Java Core (SE/EE)",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/308",
+                "speaker":"Virgil Dodson"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"The informal Spring BOF.",
+        "id":364,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/288",
+        "title":"Spring BOF",
+        "speaker":"Ben Alex",
+        "track":"Java Core (SE/EE)",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/288",
+                "speaker":"Ben Alex"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/159",
+                "speaker":"Christian Dupuis"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/294",
+                "speaker":"Stefan Schmidt"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"From a technology perspective it seems dust has settled down in the JAVA/JEE world. The JEE specification has reached a mature status and a few frameworks dominate the development landscape. This is all good news since the Cloud 2 era requires even more versatile and more scalable back-end technologies.\r\n\r\nA few challenges remain. One of the more pressing challenges is productivity. The development of professional, well documented and tested JEE solutions is done at best at 11 hours per function point (according to International Software Benchmarking Standards Group - www.isbsg.org). This is not a very compelling figure making the development of JEE applications expensive.\r\n\r\nThe revolutionary Festa Factory platform stands for the development of JEE applications at the rate of 3 hours per function point, which makes it unmatched in the industry. This talk will be an introduction to the Festa Factory platform. Here some highlights:\r\n\r\n* Better integration of the work of the information analyst and the programmer by using a shared graphical DSL.\r\n* Higher productivity through code generation: no more plumbing and scaffolding code! The Festa Engine currently generates 64 different types of artifacts (classes and configuration files)\r\n* Transparent linear use case based project planning and tracking\r\n\r\nWe are currently in the process of redeveloping the Festa Factory platform and have chosen the Devoxx conference as the launch moment. This talk will actually mark the birth of the Festa Factory platform. So, make sure you don't miss out the opportunity to witness this once-in-a-lifetime event!",
+        "id":365,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/309",
+        "title":"Festa Factory: Unmatched Productivity",
+        "speaker":"Franck De Bruijn",
+        "track":"Java Core (SE/EE)",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/309",
+                "speaker":"Franck De Bruijn"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"More Java Puzzles by Joshua Bloch and Mr. X   :)",
+        "id":366,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/314",
+        "title":"Return of the Puzzlers",
+        "speaker":"Joshua Bloch",
+        "track":"Java Core (SE/EE)",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/314",
+                "speaker":"Joshua Bloch"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"A couple of years ago, Internet usage on mobile clients was a marginal activity reserved to those patient enough to deal with big latencies and quirky user interfaces. Now those days are gone, and pretty soon the smartphones will outnumber the desktops, laptops and netbooks connected to the Internet.\r\n\r\nBut writing a good web application is no small feat though, as mobile devices are bandwidth-constrained and are not guaranteed to be permanently online, so a good mobile web applications should take care of these constraints by both being capable of working offline and reducing bandwidth usage and server round-trips.\r\n\r\nThis talk will show you why the Google Web Toolkit and App Engine are the ideal Java frameworks to deliver a first-class mobile web application: optimized, ready to scale and offline-enabled. The example used to illustrate all of these concepts (and more !) will be one of the HTML5 clients of the Devoxx Schedule REST interface.",
+        "id":367,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/325",
+        "title":"GWT and App Engine using the Devoxx REST Interface",
+        "speaker":"Salvador Diaz",
+        "track":"Web Frameworks",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/325",
+                "speaker":"Salvador Diaz"
+            }
+        ],
+        "type":"Quickie (15m)"
+    },
+    {
+        "summary":"During this session, we\u2019ll discover the new Flex 4 framework associated with Flash Builder 4 (Eclipse plug-in to develop Flex apps) and how your rich front-end can exchange objects with your JAVA server. If you wish to develop Desktop applications, then you\u2019ll be interested by the new features of the Adobe AIR 2 runtime. We\u2019ll see how to run offline applications, invoke a Java native process on the client side, play with your webcam or your microphone... on Windows, MAC and Linux. The last part of this session will cover Mobile and Tablet applications. Thanks to the future releases of the Flash platform, JAVA developers can rapidly develop applications for Android (and soon Blackberries, WebOS and  iOS), leveraging specific mobile APIs such as multitouch, the accelerometer, access to the camera or the microphone, etc... These three hours will give you a 360 panorama of the Adobe RIA technologies.",
+        "id":368,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/331",
+        "title":"The latest innovations of the Adobe Flash Platform for Java developers",
+        "speaker":"Michael Chaize",
+        "track":"Desktop/RIA/Mobile",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/331",
+                "speaker":"Michael Chaize"
+            }
+        ],
+        "type":"University (3h)"
+    },
+    {
+        "summary":"Meet Adobe RIA experts to exchange on the role of Rich Internet Application in the Enterprise world: the benefits of rich user interfaces? How it can impact the IT organization of a company ? What are the biggest references and successes in Europe ? Who are the key players on this market ?",
+        "id":370,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/331",
+        "title":"Meet the Adobe guys and discuss the role of RIA in the Enterprise",
+        "speaker":"Michael Chaize",
+        "track":"Desktop/RIA/Mobile",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/331",
+                "speaker":"Michael Chaize"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"The AIR 2.5 runtime is now available on Android (and soon on Blackberries, WebOS\u2026). Using the last release of the Flex framework, you can rapidly develop rich and engaging applications connected to your JAVA back-end. During this session, you'll discover how to code and deploy a mobile application for Android leveraging specific mobile APIs such as Multi-touch, the Accelerometer, access to the Camera and the microphone, StageWeb view\u2026 and many new features to develop the best user-experience for your application.",
+        "id":371,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/331",
+        "title":"Develop Mobile applications with AIR 2.5",
+        "speaker":"Michael Chaize",
+        "track":"Desktop/RIA/Mobile",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/331",
+                "speaker":"Michael Chaize"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"The new Flex 4 architecture enables advanced visual experiences. The goal of this session if to present the Flex graphic API, how to play with the states of an application, apply advanced transitions, how to skin components and play with visual effects. Your Java application front-end can be fun and intuitive enough thanks to Flex 4 to gain the user adoption you deserve.",
+        "id":372,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/331",
+        "title":"Fun and visual effects with Flex 4",
+        "speaker":"Michael Chaize",
+        "track":"Desktop/RIA/Mobile",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/331",
+                "speaker":"Michael Chaize"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"There has been a dramatic increase in the number of smart phones and tablet-like devices. This has forced organizations to meet a new requirement that their applications have to work with mobile devices. At same the number and variety of platforms for mobile applications has also increased greatly (iPhone, Android, BlackBerry, Windows 7, webOS and Symbian). This has made it hard for organizations to know how to choose the right development path. In this session, we will explain the specific options available today, looking at the pros and cons of the two main approaches for mobile development: native apps or mobile-targeted Web apps.",
+        "id":374,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/124",
+        "title":"Mobile Development Choices: Native Apps vs. Web Apps",
+        "speaker":"Max Katz",
+        "track":"Desktop/RIA/Mobile",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/124",
+                "speaker":"Max Katz"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"This Quickie will be a hands-on demo of loadUI, a novel and free Open Source Load Testing tool that supports distributed load testing via an innovative JavaFX-based user interface. With loadUI you create, configure and redistribute your load tests in real time (while your tests are actually running!), giving you the unique possibility to understand how your services behave under load and when load changes. loadUI supports testing of SOAP, REST, Web, AMF, JDBC and JMS interfaces and thanks to its OSGi and Groovy based infrastructure it can easily be expanded to accommodate for any other protocol or testing requirements you might have.",
+        "id":375,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/329",
+        "title":"loadUI : A uniquely cool approach to Interactive Distributed Load Testing",
+        "speaker":"Ole Lensmar",
+        "track":"Java Core (SE/EE)",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/329",
+                "speaker":"Ole Lensmar"
+            }
+        ],
+        "type":"Quickie (15m)"
+    },
+    {
+        "summary":"JavaFX Script is going away, but the JavaFX Platform is getting a new face with pure Java APIs. In this session, you will see how you can leverage the new JavaFX 2.0 APIs from a host of different JVM languages, including JRuby, Clojure, Groovy, and Scala.",
+        "id":376,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/98",
+        "title":"JavaFX Your Way: Building JavaFX Applications with Alternative Languages",
+        "speaker":"Stephen Chin",
+        "track":"Desktop/RIA/Mobile",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/98",
+                "speaker":"Stephen Chin"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"Visage is a new UI DSL for writing rich internet applications.  Bring your Android device and learn how to build and deploy Android market applications using the Visage language.  Besides being a lot of fun, prizes will be awarded for finding defects and helping the dev team make Visage better.",
+        "id":377,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/98",
+        "title":"Visage Android Workshop",
+        "speaker":"Stephen Chin",
+        "track":"Desktop/RIA/Mobile",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/98",
+                "speaker":"Stephen Chin"
+            }
+        ],
+        "type":"Bof (1h)"
+    },
+    {
+        "summary":"This talk introduces JSR-299: Contexts and Dependency Injection for the Java EE platform (CDI), the new Java standard for dependency injection and contextual lifecycle management. The talk covers the core programming model, explains its relationship to EJB 3.1 and JSF 2.0, and clarifies how it unifies and enhances the Java EE platform as a whole (extending to JPA, JAX-RS and JMS). You are then introduced to Weld, the Apache-licensed JSR-299 reference implementation, OpenWebBeans, another Apache-licensed implementation, and their servlet container extensions. Finally, we look ahead at portable enhancements provided by Weld extensions that help extension writers today and will become candidates for the next spec revision.\r\n\r\nWhile many of the features provided by CDI (dependency injection, contextual lifecycle, configuration, interception, event notification) are familiar, the innovative use of meta-annotations is uniquely expressive and typesafe. This talk emphasizes the value in this approach. This is a great opportunity to learn about the this new, extensible programming model that forms the foundation of a unified, extensible Java EE 6 platform.",
+        "id":379,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/244",
+        "title":"The roots of Java EE 6: JSR-299 (CDI) and Weld extensions",
+        "speaker":"Dan Allen",
+        "track":"Java Core (SE/EE)",
+        "experience":"SENIOR",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/244",
+                "speaker":"Dan Allen"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"With Flash Player 10.1 being rolled out on smartphones (Android, BlackBerry Tablet OS, \u2026) and the pre-release of AIR 2.5 for Android (being the biggest Adobe pre-release ever) mobile development using Flash Platform tools is an exciting possibility. Existing Flex skills and application code-bases can now be leveraged to create new applications for new use cases.\r\n\r\nThis session will cover multi-screen, multi-platform development workflows using AIR 2.5, Flash Catalyst, Flash Builder and Flex 4.x.",
+        "id":380,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/320",
+        "title":"Flash Platform Mobile Development",
+        "speaker":"Jan Van Coppenolle",
+        "track":"Desktop/RIA/Mobile",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/320",
+                "speaker":"Jan Van Coppenolle"
+            }
+        ],
+        "type":"Conference (1h)"
+    },
+    {
+        "summary":"This session will look at the composition and growth of the OpenJDK community and the associated open source projects. We'll take a look at who's writing code for OpenJDK, who's using it, and how successful the project has been in attracting a community of developers interested in contributing to and working with the JDK code base. You'll learn how to get started with the code, how to get your fixes in, how to provide ideas & feedback and get involved in the OpenJDK community.",
+        "id":381,
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/345",
+        "title":"OpenJDK",
+        "speaker":"Dalibor Topic",
+        "track":"Java Core (SE/EE)",
+        "experience":"NOVICE",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/345",
+                "speaker":"Dalibor Topic"
+            }
+        ],
+        "type":"Conference (1h)"
+    }
+]

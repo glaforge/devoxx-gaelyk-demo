@@ -1,0 +1,3127 @@
+[
+    {
+        "id":5,
+        "partnerSlot":false,
+        "fromTime":"2010-11-15 08:00:00.0",
+        "code":"Registration and Breakfast",
+        "type":"University (3h)",
+        "toTime":"2010-11-15 09:30:00.0",
+        "kind":"Registration",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Dan Allen",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/278",
+        "code":"D10_U_15_08_01",
+        "fromTime":"2010-11-15 09:30:00.0",
+        "partnerSlot":false,
+        "type":"University (3h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/244",
+                "speaker":"Dan Allen"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/295",
+                "speaker":"Pete Muir"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 12:30:00.0",
+        "id":1,
+        "title":"Seam 3: State of the Union",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/244",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Neal Ford",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/328",
+        "code":"D10_U_15_05_01",
+        "fromTime":"2010-11-15 09:30:00.0",
+        "partnerSlot":false,
+        "type":"University (3h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/276",
+                "speaker":"Neal Ford"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 12:30:00.0",
+        "id":2,
+        "title":"Productive Programmer",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/276",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Bruno Lowagie",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/60",
+        "code":"D10_U_15_04_01",
+        "fromTime":"2010-11-15 09:30:00.0",
+        "partnerSlot":false,
+        "type":"University (3h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/83",
+                "speaker":"Bruno Lowagie"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 12:30:00.0",
+        "id":3,
+        "title":"iText in Action, release of the second edition",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/83",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Tom White",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/340",
+        "code":"D10_U_15_09_01",
+        "fromTime":"2010-11-15 09:30:00.0",
+        "partnerSlot":false,
+        "type":"University (3h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/287",
+                "speaker":"Tom White"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 12:30:00.0",
+        "id":4,
+        "title":"Hadoop Fundamentals: HDFS, MapReduce, Pig, and Hive",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/287",
+        "room":"Room 9"
+    },
+    {
+        "id":6,
+        "partnerSlot":false,
+        "fromTime":"2010-11-15 12:30:00.0",
+        "code":"Lunch",
+        "type":"University (3h)",
+        "toTime":"2010-11-15 13:30:00.0",
+        "kind":"Lunch",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Ben Alex",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/341",
+        "code":"D10_U_15_08_02",
+        "fromTime":"2010-11-15 13:30:00.0",
+        "partnerSlot":false,
+        "type":"University (3h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/288",
+                "speaker":"Ben Alex"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/294",
+                "speaker":"Stefan Schmidt"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 16:30:00.0",
+        "id":7,
+        "title":"Extreme Productivity with Spring Roo",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/288",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Guillaume Laforge",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/284",
+        "code":"D10_U_15_05_02",
+        "fromTime":"2010-11-15 13:30:00.0",
+        "partnerSlot":false,
+        "type":"University (3h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/6",
+                "speaker":"Guillaume Laforge"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 16:30:00.0",
+        "id":8,
+        "title":"Groovy update, ecosystem, and skyrocketing to the cloud with App Engine and Gaelyk!",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/6",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Michael Chaize",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/368",
+        "code":"D10_U_15_04_02",
+        "fromTime":"2010-11-15 13:30:00.0",
+        "partnerSlot":true,
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/331",
+                "speaker":"Michael Chaize"
+            }
+        ],
+        "type":"University (3h)",
+        "kind":"Talk",
+        "toTime":"2010-11-15 16:30:00.0",
+        "id":9,
+        "title":"The latest innovations of the Adobe Flash Platform for Java developers",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/331",
+        "note":"Reserved",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Roger Bodamer",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/216",
+        "code":"D10_U_15_09_02",
+        "fromTime":"2010-11-15 13:30:00.0",
+        "partnerSlot":false,
+        "type":"University (3h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/296",
+                "speaker":"Roger Bodamer"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 16:30:00.0",
+        "id":10,
+        "title":"Building Web Applications with MongoDB",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/296",
+        "room":"Room 9"
+    },
+    {
+        "id":11,
+        "partnerSlot":false,
+        "fromTime":"2010-11-15 16:30:00.0",
+        "code":"Coffee break",
+        "type":"University (3h)",
+        "toTime":"2010-11-15 16:45:00.0",
+        "kind":"Coffee Break",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Christian Dupuis",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/164",
+        "code":"D10_T_15_08_01",
+        "fromTime":"2010-11-15 16:45:00.0",
+        "partnerSlot":false,
+        "type":"Tools in Action (30m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/159",
+                "speaker":"Christian Dupuis"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 17:15:00.0",
+        "id":12,
+        "title":"Spring Developer Tools to push your Productivity",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/159",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Lincoln Baxter III",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/59",
+        "code":"D10_T_15_05_01",
+        "fromTime":"2010-11-15 16:45:00.0",
+        "partnerSlot":false,
+        "type":"Tools in Action (30m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/71",
+                "speaker":"Lincoln Baxter III"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 17:15:00.0",
+        "id":13,
+        "title":"Beautiful Java EE: URL-rewriting for the next generation web-user",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/71",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Peter Arrenbrecht",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/144",
+        "code":"D10_T_15_04_01",
+        "fromTime":"2010-11-15 16:45:00.0",
+        "partnerSlot":false,
+        "type":"Tools in Action (30m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/146",
+                "speaker":"Peter Arrenbrecht"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 17:15:00.0",
+        "id":14,
+        "title":"Literate Testing: Justifying APIs Makes Them Better",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/146",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Maciej Machulak",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/270",
+        "code":"D10_T_15_09_01",
+        "fromTime":"2010-11-15 16:45:00.0",
+        "partnerSlot":false,
+        "type":"Tools in Action (30m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/207",
+                "speaker":"Maciej Machulak"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/212",
+                "speaker":"Lukasz Moren"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 17:15:00.0",
+        "id":15,
+        "title":"Introduction to UMA/j \u2013 User Managed Access framework",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/207",
+        "room":"Room 9"
+    },
+    {
+        "id":16,
+        "partnerSlot":false,
+        "fromTime":"2010-11-15 17:15:00.0",
+        "code":"Room switch",
+        "type":"Tools in Action (30m)",
+        "toTime":"2010-11-15 17:25:00.0",
+        "kind":"Break",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Jaroslav Bachorik",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/115",
+        "code":"D10_T_15_08_02",
+        "fromTime":"2010-11-15 17:25:00.0",
+        "partnerSlot":false,
+        "type":"Tools in Action (30m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/27",
+                "speaker":"Jaroslav Bachorik"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 17:55:00.0",
+        "id":17,
+        "title":"VisualVM - multiplatform versatile monitoring solution",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/27",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Pavel Lahoda",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/276",
+        "code":"D10_T_15_05_02",
+        "fromTime":"2010-11-15 17:25:00.0",
+        "partnerSlot":false,
+        "type":"Tools in Action (30m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/242",
+                "speaker":"Pavel Lahoda"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 17:55:00.0",
+        "id":18,
+        "title":"Programatic UI - how to build UI and avoid acute chevronitis",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/242",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Oliver Gierke",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/39",
+        "code":"D10_T_15_04_02",
+        "fromTime":"2010-11-15 17:25:00.0",
+        "partnerSlot":false,
+        "type":"Tools in Action (30m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/54",
+                "speaker":"Oliver Gierke"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 17:55:00.0",
+        "id":19,
+        "title":"Increasing developer productivity with Mylyn",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/54",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Isabel Drost",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/45",
+        "code":"D10_T_15_09_02",
+        "fromTime":"2010-11-15 17:25:00.0",
+        "partnerSlot":false,
+        "type":"Tools in Action (30m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/32",
+                "speaker":"Isabel Drost"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 17:55:00.0",
+        "id":20,
+        "title":"Intelligent data analysis - Apache Mahout",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/32",
+        "room":"Room 9"
+    },
+    {
+        "speaker":"Guillaume Laforge",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/350",
+        "code":"D10_B_15_01_01",
+        "fromTime":"2010-11-15 19:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/6",
+                "speaker":"Guillaume Laforge"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/252",
+                "speaker":"Graeme Rocher"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 20:00:00.0",
+        "id":21,
+        "title":"Groovy/Grails Get Together",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/6",
+        "room":"BOF 1"
+    },
+    {
+        "speaker":"Dan Allen",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/349",
+        "code":"D10_B_15_02_01",
+        "fromTime":"2010-11-15 19:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/244",
+                "speaker":"Dan Allen"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/295",
+                "speaker":"Pete Muir"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 20:00:00.0",
+        "id":22,
+        "title":"Seam Gathering",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/244",
+        "room":"BOF 2"
+    },
+    {
+        "speaker":"Ben Alex",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/364",
+        "code":"D10_B_15_01_02",
+        "fromTime":"2010-11-15 20:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/288",
+                "speaker":"Ben Alex"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/159",
+                "speaker":"Christian Dupuis"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/294",
+                "speaker":"Stefan Schmidt"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 21:00:00.0",
+        "id":23,
+        "title":"Spring BOF",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/288",
+        "room":"BOF 1"
+    },
+    {
+        "speaker":"Michael Chaize",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/370",
+        "code":"D10_B_15_02_02",
+        "fromTime":"2010-11-15 20:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/331",
+                "speaker":"Michael Chaize"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 21:00:00.0",
+        "id":24,
+        "title":"Meet the Adobe guys and discuss the role of RIA in the Enterprise",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/331",
+        "room":"BOF 2"
+    },
+    {
+        "speaker":"Joachim Van der Auwera",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/233",
+        "code":"D10_B_15_01_03",
+        "fromTime":"2010-11-15 21:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/185",
+                "speaker":"Joachim Van der Auwera"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 22:00:00.0",
+        "id":25,
+        "title":"Geomajas web mapping users meeting",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/185",
+        "room":"BOF 1"
+    },
+    {
+        "speaker":"Heinz Kabutz",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/359",
+        "code":"D10_B_15_02_03",
+        "fromTime":"2010-11-15 21:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/265",
+                "speaker":"Heinz Kabutz"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-15 22:00:00.0",
+        "id":26,
+        "title":"jpatterns.org - Annotations for Pointing out Patterns in Your Code",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/265",
+        "room":"BOF 2"
+    },
+    {
+        "id":27,
+        "partnerSlot":false,
+        "fromTime":"2010-11-16 08:00:00.0",
+        "code":"Breakfast and Exhibition",
+        "type":"University (3h)",
+        "note":"Breakfast and Exhibition",
+        "toTime":"2010-11-16 09:30:00.0",
+        "kind":"Breakfast",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Antonio Goncalves",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/134",
+        "code":"D10_U_16_08_01",
+        "fromTime":"2010-11-16 09:30:00.0",
+        "partnerSlot":false,
+        "type":"University (3h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/116",
+                "speaker":"Antonio Goncalves"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/182",
+                "speaker":"Alexis Moussine-Pouchkine"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 12:30:00.0",
+        "id":28,
+        "title":"Java EE 6 Tutorial. Reloaded!",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/116",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Martijn Dashorst",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/291",
+        "code":"D10_U_16_05_01",
+        "fromTime":"2010-11-16 09:30:00.0",
+        "partnerSlot":false,
+        "type":"University (3h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/56",
+                "speaker":"Martijn Dashorst"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 12:30:00.0",
+        "id":29,
+        "title":"Introducing Wicket",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/56",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Romain Guy",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/133",
+        "code":"D10_U_16_04_01",
+        "fromTime":"2010-11-16 09:30:00.0",
+        "partnerSlot":false,
+        "type":"University (3h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/132",
+                "speaker":"Romain Guy"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/129",
+                "speaker":"Chet Haase"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 12:30:00.0",
+        "id":30,
+        "title":"Dive into Android",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/132",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Jonathan Ellis",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/161",
+        "code":"D10_U_16_09_01",
+        "fromTime":"2010-11-16 09:30:00.0",
+        "partnerSlot":false,
+        "type":"University (3h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/157",
+                "speaker":"Jonathan Ellis"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 12:30:00.0",
+        "id":31,
+        "title":"Cassandra by Example",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/157",
+        "room":"Room 9"
+    },
+    {
+        "id":32,
+        "partnerSlot":false,
+        "fromTime":"2010-11-16 12:30:00.0",
+        "code":"Lunch, Exhibition and Quickies",
+        "type":"University (3h)",
+        "note":"Lunch and Exhibition",
+        "toTime":"2010-11-16 13:30:00.0",
+        "kind":"Lunch",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "id":70,
+        "partnerSlot":false,
+        "fromTime":"2010-11-16 13:00:00.0",
+        "code":"D10_Q_16_08_01",
+        "type":"Quickie (15m)",
+        "toTime":"2010-11-16 13:15:00.0",
+        "kind":"Talk",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Joachim Van der Auwera",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/237",
+        "code":"D10_Q_16_05_01",
+        "fromTime":"2010-11-16 13:00:00.0",
+        "partnerSlot":false,
+        "type":"Quickie (15m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/185",
+                "speaker":"Joachim Van der Auwera"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 13:15:00.0",
+        "id":71,
+        "title":"Introduction to the Geomajas web mapping framework",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/185",
+        "room":"Room 5"
+    },
+    {
+        "id":72,
+        "partnerSlot":false,
+        "fromTime":"2010-11-16 13:00:00.0",
+        "code":"D10_Q_16_04_01",
+        "type":"Quickie (15m)",
+        "toTime":"2010-11-16 13:15:00.0",
+        "kind":"Talk",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Enno Runne",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/266",
+        "code":"D10_Q_16_09_01",
+        "fromTime":"2010-11-16 13:00:00.0",
+        "partnerSlot":false,
+        "type":"Quickie (15m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/192",
+                "speaker":"Enno Runne"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 13:15:00.0",
+        "id":73,
+        "title":"Programming in pain",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/192",
+        "room":"Room 9"
+    },
+    {
+        "speaker":"Emmanuel Bernard",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/92",
+        "code":"D10_U_16_08_02",
+        "fromTime":"2010-11-16 13:30:00.0",
+        "partnerSlot":false,
+        "type":"University (3h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/117",
+                "speaker":"Emmanuel Bernard"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 16:30:00.0",
+        "id":33,
+        "title":"What's new in Hibernate: a JPA 2 perspective",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/117",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Nathaniel Schutta",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/88",
+        "code":"D10_U_16_05_02",
+        "fromTime":"2010-11-16 13:30:00.0",
+        "partnerSlot":false,
+        "type":"University (3h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/112",
+                "speaker":"Nathaniel Schutta"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 16:30:00.0",
+        "id":34,
+        "title":"Ajax Library Smack down: Prototype vs. jQuery",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/112",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Richard Bair",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/296",
+        "code":"D10_U_16_04_02",
+        "fromTime":"2010-11-16 13:30:00.0",
+        "partnerSlot":false,
+        "type":"University (3h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/264",
+                "speaker":"Richard Bair"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/317",
+                "speaker":"Jasper Potts"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 16:30:00.0",
+        "id":35,
+        "title":"JavaFX 101",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/264",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Michael Stack",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/208",
+        "code":"D10_U_16_09_02",
+        "fromTime":"2010-11-16 13:30:00.0",
+        "partnerSlot":false,
+        "type":"University (3h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/218",
+                "speaker":"Michael Stack"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/177",
+                "speaker":"Jonathan Gray"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 16:30:00.0",
+        "id":36,
+        "title":"Introduction to HBase",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/218",
+        "room":"Room 9"
+    },
+    {
+        "id":165,
+        "partnerSlot":false,
+        "fromTime":"2010-11-16 16:30:00.0",
+        "code":"Coffee Break",
+        "type":"University (3h)",
+        "toTime":"2010-11-16 16:45:00.0",
+        "kind":"Coffee Break",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Alexis Moussine-Pouchkine",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/179",
+        "code":"D10_T_16_08_01",
+        "fromTime":"2010-11-16 16:45:00.0",
+        "partnerSlot":false,
+        "type":"Tools in Action (30m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/182",
+                "speaker":"Alexis Moussine-Pouchkine"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 17:15:00.0",
+        "id":37,
+        "title":"From zero to Java EE 6 in 30 minutes and zero slides",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/182",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Christian Dupuis",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/165",
+        "code":"D10_T_16_05_01",
+        "fromTime":"2010-11-16 16:45:00.0",
+        "partnerSlot":false,
+        "type":"Tools in Action (30m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/159",
+                "speaker":"Christian Dupuis"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 17:15:00.0",
+        "id":38,
+        "title":"Groovy/Grails Development in Eclipse",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/159",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Guilherme Silveira",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/125",
+        "code":"D10_T_16_04_01",
+        "fromTime":"2010-11-16 16:45:00.0",
+        "partnerSlot":false,
+        "type":"Tools in Action (30m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/123",
+                "speaker":"Guilherme Silveira"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/292",
+                "speaker":"Adriano Almeida"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 17:15:00.0",
+        "id":39,
+        "title":"Restfulie: quit pretending, use the web for real",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/123",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Dragan Milicev",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/40",
+        "code":"D10_T_16_09_01",
+        "fromTime":"2010-11-16 16:45:00.0",
+        "partnerSlot":false,
+        "type":"Tools in Action (30m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/58",
+                "speaker":"Dragan Milicev"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 17:15:00.0",
+        "id":40,
+        "title":"SOLoist: A Java-Based Framework for Model-Driven Development of Enterprise Web Applications with Executable UML",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/58",
+        "room":"Room 9"
+    },
+    {
+        "id":41,
+        "partnerSlot":false,
+        "fromTime":"2010-11-16 17:15:00.0",
+        "code":"Room switch",
+        "type":"Tools in Action (30m)",
+        "toTime":"2010-11-16 17:25:00.0",
+        "kind":"Break",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Ludovic Champenois",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/186",
+        "code":"D10_T_16_08_02",
+        "fromTime":"2010-11-16 17:25:00.0",
+        "partnerSlot":false,
+        "type":"Tools in Action (30m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/195",
+                "speaker":"Ludovic Champenois"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 17:55:00.0",
+        "id":42,
+        "title":"Java EE 6: Tooling Status: what am I missing?",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/195",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Peter Arrenbrecht",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/142",
+        "code":"D10_T_16_05_02",
+        "fromTime":"2010-11-16 17:25:00.0",
+        "partnerSlot":false,
+        "type":"Tools in Action (30m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/146",
+                "speaker":"Peter Arrenbrecht"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 17:55:00.0",
+        "id":43,
+        "title":"Excel on the JVM: Generating Fast Code from Spreadsheet Models",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/146",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Marc Portier",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/166",
+        "code":"D10_T_16_04_02",
+        "fromTime":"2010-11-16 17:25:00.0",
+        "partnerSlot":false,
+        "type":"Tools in Action (30m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/160",
+                "speaker":"Marc Portier"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 17:55:00.0",
+        "id":44,
+        "title":"Scalable and RESTful web applications: at the crossroads of Kauri and Lily",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/160",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Johan Vos",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/317",
+        "code":"D10_T_16_09_02",
+        "fromTime":"2010-11-16 17:25:00.0",
+        "partnerSlot":false,
+        "type":"Tools in Action (30m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/110",
+                "speaker":"Johan Vos"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 17:55:00.0",
+        "id":45,
+        "title":"Using RedFX to connect JavaFX clients and Java Enterprise systems",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/110",
+        "room":"Room 9"
+    },
+    {
+        "id":46,
+        "partnerSlot":false,
+        "fromTime":"2010-11-16 17:55:00.0",
+        "code":"Exhibition",
+        "type":"University (3h)",
+        "note":"Exhibition",
+        "toTime":"2010-11-16 20:00:00.0",
+        "kind":"Break",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Dick Wall",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/352",
+        "code":"D10_B_16_01_01",
+        "fromTime":"2010-11-16 19:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/272",
+                "speaker":"Dick Wall"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/304",
+                "speaker":"Martin Odersky"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/273",
+                "speaker":"Bill Venners"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 20:00:00.0",
+        "id":47,
+        "title":"Scala",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/272",
+        "room":"BOF 1"
+    },
+    {
+        "speaker":"Romain Guy",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/351",
+        "code":"D10_B_16_02_01",
+        "fromTime":"2010-11-16 19:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/132",
+                "speaker":"Romain Guy"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/129",
+                "speaker":"Chet Haase"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 20:00:00.0",
+        "id":48,
+        "title":"Android Q&A",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/132",
+        "room":"BOF 2"
+    },
+    {
+        "speaker":"Talip Ozturk",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/103",
+        "code":"D10_B_16_01_02",
+        "fromTime":"2010-11-16 20:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/126",
+                "speaker":"Talip Ozturk"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 21:00:00.0",
+        "id":49,
+        "title":"Scalable Data Structures for Java",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/126",
+        "room":"BOF 1"
+    },
+    {
+        "speaker":"Paul Sandoz",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/358",
+        "code":"D10_B_16_02_02",
+        "fromTime":"2010-11-16 20:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/224",
+                "speaker":"Paul Sandoz"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/350",
+                "speaker":"Jan Algermissen"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 21:00:00.0",
+        "id":50,
+        "title":"The JAX-RS/REST BOF",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/224",
+        "room":"BOF 2"
+    },
+    {
+        "speaker":"Maciej Machulak",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/269",
+        "code":"D10_B_16_01_03",
+        "fromTime":"2010-11-16 21:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/207",
+                "speaker":"Maciej Machulak"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/212",
+                "speaker":"Lukasz Moren"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 22:00:00.0",
+        "id":51,
+        "title":"Introduction to UMA/j \u2013 User Managed Access framework",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/207",
+        "room":"BOF 1"
+    },
+    {
+        "speaker":"Nilesh Junnarkar",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/71",
+        "code":"D10_B_16_02_03",
+        "fromTime":"2010-11-16 21:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/101",
+                "speaker":"Nilesh Junnarkar"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-16 22:00:00.0",
+        "id":52,
+        "title":"Dealing with Asynchronicity in Java™ Technology-Based Web Services",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/101",
+        "room":"BOF 2"
+    },
+    {
+        "id":53,
+        "partnerSlot":false,
+        "fromTime":"2010-11-17 08:00:00.0",
+        "code":"Registration, breakfast and exhibition",
+        "type":"Conference (1h)",
+        "note":"Registration, breakfast and exhibition",
+        "toTime":"2010-11-17 09:30:00.0",
+        "kind":"Registration",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Stephan Janssen",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/332",
+        "code":"Intro",
+        "fromTime":"2010-11-17 09:30:00.0",
+        "partnerSlot":false,
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/2",
+                "speaker":"Stephan Janssen"
+            }
+        ],
+        "type":"Conference (1h)",
+        "kind":"Keynote",
+        "toTime":"2010-11-17 10:00:00.0",
+        "id":54,
+        "title":"Welcome and Intro",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/2",
+        "note":"Overflow in room 5, 4 and 9",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Mark Reinhold",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/333",
+        "code":"Java SE Keynote",
+        "fromTime":"2010-11-17 10:00:00.0",
+        "partnerSlot":false,
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/279",
+                "speaker":"Mark Reinhold"
+            }
+        ],
+        "type":"Conference (1h)",
+        "kind":"Keynote",
+        "toTime":"2010-11-17 10:50:00.0",
+        "id":55,
+        "title":"Java SE: The Road Ahead",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/279",
+        "note":"Overflow in room 5, 4 and 9",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Dion Almaer",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/342",
+        "code":"Web Keynote",
+        "fromTime":"2010-11-17 10:50:00.0",
+        "partnerSlot":false,
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/290",
+                "speaker":"Dion Almaer"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/291",
+                "speaker":"Ben Galbraith"
+            }
+        ],
+        "type":"Conference (1h)",
+        "kind":"Keynote",
+        "toTime":"2010-11-17 11:40:00.0",
+        "id":56,
+        "title":"The State of the Web",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/290",
+        "note":"Overflow in room 5, 4 and 9",
+        "room":"Room 8"
+    },
+    {
+        "id":57,
+        "partnerSlot":false,
+        "fromTime":"2010-11-17 11:40:00.0",
+        "code":"Coffee Break and Exhibition",
+        "type":"Conference (1h)",
+        "toTime":"2010-11-17 12:00:00.0",
+        "kind":"Coffee Break",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Linda DeMichiel",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/285",
+        "code":"D10_C_17_08_01",
+        "fromTime":"2010-11-17 12:00:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/197",
+                "speaker":"Linda DeMichiel"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 13:00:00.0",
+        "id":58,
+        "title":"Java Persistence 2.0",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/197",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Stefan Tilkov",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/93",
+        "code":"D10_C_17_05_01",
+        "fromTime":"2010-11-17 12:00:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/118",
+                "speaker":"Stefan Tilkov"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 13:00:00.0",
+        "id":59,
+        "title":"Enterprise IT vs. WWW",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/118",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Patrick Debois",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/229",
+        "code":"D10_C_17_04_01",
+        "fromTime":"2010-11-17 12:00:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/205",
+                "speaker":"Patrick Debois"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/115",
+                "speaker":"Kris Buytaert"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 13:00:00.0",
+        "id":60,
+        "title":"From Dev/Ops to DevOps. Amazing the difference one character can make.",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/205",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Heinz Kabutz",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/298",
+        "code":"D10_C_17_09_01",
+        "fromTime":"2010-11-17 12:00:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/265",
+                "speaker":"Heinz Kabutz"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 13:00:00.0",
+        "id":61,
+        "title":"Reflection Madness",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/265",
+        "room":"Room 9"
+    },
+    {
+        "speaker":"Virgil Dodson",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/363",
+        "code":"D10_C_17_06_01",
+        "fromTime":"2010-11-17 12:00:00.0",
+        "partnerSlot":true,
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/308",
+                "speaker":"Virgil Dodson"
+            }
+        ],
+        "type":"Conference (1h)",
+        "kind":"Talk",
+        "toTime":"2010-11-17 13:00:00.0",
+        "id":62,
+        "title":"BIRT in Action: Adding Interactivity Features to your BIRT Reports",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/308",
+        "note":"Reserved Actuate",
+        "room":"Room 6"
+    },
+    {
+        "id":63,
+        "partnerSlot":false,
+        "fromTime":"2010-11-17 13:00:00.0",
+        "code":"Lunch, Exhibition and Quickies",
+        "type":"Conference (1h)",
+        "toTime":"2010-11-17 14:00:00.0",
+        "kind":"Lunch",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Costin Leau",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/28",
+        "code":"D10_Q_17_08_01",
+        "fromTime":"2010-11-17 13:15:00.0",
+        "partnerSlot":false,
+        "type":"Quickie (15m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/37",
+                "speaker":"Costin Leau"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 13:30:00.0",
+        "id":121,
+        "title":"Spring 3 Java Config",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/37",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Matthew McCullough",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/154",
+        "code":"D10_Q_17_05_01",
+        "fromTime":"2010-11-17 13:15:00.0",
+        "partnerSlot":false,
+        "type":"Quickie (15m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/152",
+                "speaker":"Matthew McCullough"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 13:30:00.0",
+        "id":122,
+        "title":"Using Git to just replace SVN is like using a Ferrari to haul dirt",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/152",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Jevgeni Kabanov",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/140",
+        "code":"D10_Q_17_04_01",
+        "fromTime":"2010-11-17 13:15:00.0",
+        "partnerSlot":false,
+        "type":"Quickie (15m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/142",
+                "speaker":"Jevgeni Kabanov"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 13:30:00.0",
+        "id":123,
+        "title":"Instant Updates and Rollbacks in Production Applications",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/142",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Andres Almiray",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/6",
+        "code":"D10_Q_17_09_01",
+        "fromTime":"2010-11-17 13:15:00.0",
+        "partnerSlot":false,
+        "type":"Quickie (15m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/5",
+                "speaker":"Andres Almiray"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 13:30:00.0",
+        "id":124,
+        "title":"A desktop app in minutes? Griffon to the rescue",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/5",
+        "room":"Room 9"
+    },
+    {
+        "speaker":"George Svarovsky",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/157",
+        "code":"D10_Q_17_06_01",
+        "fromTime":"2010-11-17 13:15:00.0",
+        "partnerSlot":false,
+        "type":"Quickie (15m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/138",
+                "speaker":"George Svarovsky"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 13:30:00.0",
+        "id":125,
+        "title":"First class curried members with jcurry",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/138",
+        "room":"Room 6"
+    },
+    {
+        "speaker":"Paul Sandoz",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/217",
+        "code":"D10_C_17_08_02",
+        "fromTime":"2010-11-17 14:00:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/224",
+                "speaker":"Paul Sandoz"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 15:00:00.0",
+        "id":64,
+        "title":"JAX-RS, Java EE 6, and the future",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/224",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Richard Bair",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/293",
+        "code":"D10_C_17_05_02",
+        "fromTime":"2010-11-17 14:00:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/264",
+                "speaker":"Richard Bair"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/317",
+                "speaker":"Jasper Potts"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 15:00:00.0",
+        "id":65,
+        "title":"From Shabby to Chic",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/264",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Tom White",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/339",
+        "code":"D10_C_17_04_02",
+        "fromTime":"2010-11-17 14:00:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/287",
+                "speaker":"Tom White"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 15:00:00.0",
+        "id":66,
+        "title":"The State of Hadoop",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/287",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Manik Surtani",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/96",
+        "code":"D10_C_17_09_02",
+        "fromTime":"2010-11-17 14:00:00.0",
+        "partnerSlot":true,
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/120",
+                "speaker":"Manik Surtani"
+            }
+        ],
+        "type":"Conference (1h)",
+        "kind":"Talk",
+        "toTime":"2010-11-17 15:00:00.0",
+        "id":67,
+        "title":"Hacking Infinispan: the new open source data grid meets NoSQL",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/120",
+        "note":"Reserved JBoss by Red Hat",
+        "room":"Room 9"
+    },
+    {
+        "speaker":"Nicole Sullivan",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/336",
+        "code":"D10_C_17_06_02",
+        "fromTime":"2010-11-17 14:00:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/280",
+                "speaker":"Nicole Sullivan"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 15:00:00.0",
+        "id":68,
+        "title":"Object-Oriented CSS",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/280",
+        "room":"Room 6"
+    },
+    {
+        "id":69,
+        "partnerSlot":false,
+        "fromTime":"2010-11-17 15:00:00.0",
+        "code":"Room switch",
+        "type":"Conference (1h)",
+        "toTime":"2010-11-17 15:10:00.0",
+        "kind":"Break",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Mark Reinhold",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/334",
+        "code":"D10_C_17_08_03",
+        "fromTime":"2010-11-17 15:10:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/279",
+                "speaker":"Mark Reinhold"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 16:10:00.0",
+        "id":74,
+        "title":"The Modular Java Platform",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/279",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Stephen Chin",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/376",
+        "code":"D10_C_17_05_03",
+        "fromTime":"2010-11-17 15:10:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/98",
+                "speaker":"Stephen Chin"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 16:10:00.0",
+        "id":75,
+        "title":"JavaFX Your Way: Building JavaFX Applications with Alternative Languages",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/98",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Jonathan Ellis",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/162",
+        "code":"D10_C_17_04_03",
+        "fromTime":"2010-11-17 15:10:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/157",
+                "speaker":"Jonathan Ellis"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 16:10:00.0",
+        "id":76,
+        "title":"Introduction to Cassandra",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/157",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Allan Foster",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/378",
+        "code":"D10_C_17_09_03",
+        "fromTime":"2010-11-17 15:10:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/301",
+                "speaker":"Allan Foster"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 16:10:00.0",
+        "id":77,
+        "title":"Opensource Authentication and Authorization",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/301",
+        "room":"Room 9"
+    },
+    {
+        "speaker":"Joonas Lehtinen",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/261",
+        "code":"D10_C_17_06_03",
+        "fromTime":"2010-11-17 15:10:00.0",
+        "partnerSlot":true,
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/240",
+                "speaker":"Joonas Lehtinen"
+            }
+        ],
+        "type":"Conference (1h)",
+        "kind":"Talk",
+        "toTime":"2010-11-17 16:10:00.0",
+        "id":78,
+        "title":"Vaadin - Rich Web Applications in Java without Plug-ins or JavaScript",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/240",
+        "note":"Reserved Vaadin",
+        "room":"Room 6"
+    },
+    {
+        "id":79,
+        "partnerSlot":false,
+        "fromTime":"2010-11-17 16:10:00.0",
+        "code":"Coffee Break",
+        "type":"Conference (1h)",
+        "toTime":"2010-11-17 16:40:00.0",
+        "kind":"Coffee Break",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Juergen Hoeller",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/56",
+        "code":"D10_C_17_08_04",
+        "fromTime":"2010-11-17 16:40:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/67",
+                "speaker":"Juergen Hoeller"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 17:40:00.0",
+        "id":80,
+        "title":"Spring 3.1 - Themes and Trends",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/67",
+        "room":"Room 8"
+    },
+    {
+        "id":81,
+        "partnerSlot":true,
+        "fromTime":"2010-11-17 16:40:00.0",
+        "code":"D10_C_17_05_04",
+        "type":"Conference (1h)",
+        "note":"Reserved Oracle",
+        "toTime":"2010-11-17 17:40:00.0",
+        "kind":"Talk",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Michael Stack",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/207",
+        "code":"D10_C_17_04_04",
+        "fromTime":"2010-11-17 16:40:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/218",
+                "speaker":"Michael Stack"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 17:40:00.0",
+        "id":82,
+        "title":"HBase Today",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/218",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Bill Venners",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/318",
+        "code":"D10_C_17_09_04",
+        "fromTime":"2010-11-17 16:40:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/273",
+                "speaker":"Bill Venners"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/272",
+                "speaker":"Dick Wall"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 17:40:00.0",
+        "id":83,
+        "title":"What's New in Scala 2.8?",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/273",
+        "room":"Room 9"
+    },
+    {
+        "speaker":"Michael Chaize",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/371",
+        "code":"D10_C_17_06_04",
+        "fromTime":"2010-11-17 16:40:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/331",
+                "speaker":"Michael Chaize"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 17:40:00.0",
+        "id":84,
+        "title":"Develop Mobile applications with AIR 2.5",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/331",
+        "room":"Room 6"
+    },
+    {
+        "id":85,
+        "partnerSlot":false,
+        "fromTime":"2010-11-17 17:40:00.0",
+        "code":"Room switch",
+        "type":"Conference (1h)",
+        "toTime":"2010-11-17 17:50:00.0",
+        "kind":"Break",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Costin Leau",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/180",
+        "code":"D10_C_17_08_05",
+        "fromTime":"2010-11-17 17:50:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/37",
+                "speaker":"Costin Leau"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 18:50:00.0",
+        "id":86,
+        "title":"Improve the performance of your Spring app",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/37",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Romain Guy",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/126",
+        "code":"D10_C_17_05_05",
+        "fromTime":"2010-11-17 17:50:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/132",
+                "speaker":"Romain Guy"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/129",
+                "speaker":"Chet Haase"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 18:50:00.0",
+        "id":87,
+        "title":"Android Graphics and Animations",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/132",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Alex Feinberg",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/299",
+        "code":"D10_C_17_04_05",
+        "fromTime":"2010-11-17 17:50:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/266",
+                "speaker":"Alex Feinberg"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 18:50:00.0",
+        "id":88,
+        "title":"Project Voldemort - Reliable distributed storage",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/266",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Martin Odersky",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/360",
+        "code":"D10_C_17_09_05",
+        "fromTime":"2010-11-17 17:50:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/304",
+                "speaker":"Martin Odersky"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 18:50:00.0",
+        "id":89,
+        "title":"Future-proofing collections: from mutable to persistent to parallel",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/304",
+        "room":"Room 9"
+    },
+    {
+        "speaker":"Jonas Jacobi",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/49",
+        "code":"D10_C_17_06_05",
+        "fromTime":"2010-11-17 17:50:00.0",
+        "partnerSlot":true,
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/63",
+                "speaker":"Jonas Jacobi"
+            }
+        ],
+        "type":"Conference (1h)",
+        "kind":"Talk",
+        "toTime":"2010-11-17 18:50:00.0",
+        "id":90,
+        "title":"HTML5 Websockets: A New World of Limitless, Live, and Wickedly Cool Web Applications",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/63",
+        "note":"Reserved for Kaazing",
+        "room":"Room 6"
+    },
+    {
+        "id":91,
+        "partnerSlot":false,
+        "fromTime":"2010-11-17 18:50:00.0",
+        "code":"Exhibition",
+        "type":"Conference (1h)",
+        "note":"Exhibition",
+        "toTime":"2010-11-17 20:00:00.0",
+        "kind":"Break",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Mark Reinhold",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/355",
+        "code":"D10_B_17_01_01",
+        "fromTime":"2010-11-17 19:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/279",
+                "speaker":"Mark Reinhold"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/282",
+                "speaker":"Joe Darcy"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/283",
+                "speaker":"Brian Goetz"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 20:00:00.0",
+        "id":92,
+        "title":"The state of Java SE 7",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/279",
+        "room":"BOF 1"
+    },
+    {
+        "speaker":"Richard Bair",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/295",
+        "code":"D10_B_17_01_02",
+        "fromTime":"2010-11-17 19:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/264",
+                "speaker":"Richard Bair"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/317",
+                "speaker":"Jasper Potts"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 20:00:00.0",
+        "id":93,
+        "title":"JavaFX",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/264",
+        "room":"BOF 2"
+    },
+    {
+        "speaker":"Linda DeMichiel",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/287",
+        "code":"D10_B_17_02_01",
+        "fromTime":"2010-11-17 20:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/197",
+                "speaker":"Linda DeMichiel"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 21:00:00.0",
+        "id":94,
+        "title":"JPA Futures",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/197",
+        "room":"BOF 1"
+    },
+    {
+        "speaker":"Stephan Janssen",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/353",
+        "code":"D10_B_17_02_02",
+        "fromTime":"2010-11-17 20:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/2",
+                "speaker":"Stephan Janssen"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 21:00:00.0",
+        "id":95,
+        "title":"What's new in Parleys.com Version 4",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/2",
+        "room":"BOF 2"
+    },
+    {
+        "speaker":"Alexis Moussine-Pouchkine",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/177",
+        "code":"D10_B_17_03_01",
+        "fromTime":"2010-11-17 21:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/182",
+                "speaker":"Alexis Moussine-Pouchkine"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 22:00:00.0",
+        "id":96,
+        "title":"The future of the GlassFish community",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/182",
+        "room":"BOF 1"
+    },
+    {
+        "speaker":"Stephen Chin",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/377",
+        "code":"D10_B_17_03_02",
+        "fromTime":"2010-11-17 21:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/98",
+                "speaker":"Stephen Chin"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-17 22:00:00.0",
+        "id":97,
+        "title":"Visage Android Workshop",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/98",
+        "room":"BOF 2"
+    },
+    {
+        "id":98,
+        "partnerSlot":false,
+        "fromTime":"2010-11-18 08:00:00.0",
+        "code":"Registration and Breakfast",
+        "type":"Conference (1h)",
+        "toTime":"2010-11-18 09:30:00.0",
+        "kind":"Registration",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Roberto Chinnici",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/326",
+        "code":"Java EE Keynote",
+        "fromTime":"2010-11-18 09:30:00.0",
+        "partnerSlot":false,
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/275",
+                "speaker":"Roberto Chinnici"
+            }
+        ],
+        "type":"Conference (1h)",
+        "kind":"Keynote",
+        "toTime":"2010-11-18 10:30:00.0",
+        "id":100,
+        "title":"The Future Roadmap of Java EE",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/275",
+        "note":"Overflow in room 5, 4 and 9",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Matt Raible",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/97",
+        "code":"D10_C_18_08_00",
+        "fromTime":"2010-11-18 10:50:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/20",
+                "speaker":"Matt Raible"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 11:50:00.0",
+        "id":151,
+        "title":"Comparing JVM Web Frameworks",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/20",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Joe Darcy",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/337",
+        "code":"D10_C_18_05_00",
+        "fromTime":"2010-11-18 10:50:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/282",
+                "speaker":"Joe Darcy"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/326",
+                "speaker":"Maurizio Cimadamore"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 11:50:00.0",
+        "id":152,
+        "title":"Project Coin: Small Language Changes in JDK 7",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/282",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Franck De Bruijn",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/365",
+        "code":"D10_C_18_04_00",
+        "fromTime":"2010-11-18 10:50:00.0",
+        "partnerSlot":true,
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/309",
+                "speaker":"Franck De Bruijn"
+            }
+        ],
+        "type":"Conference (1h)",
+        "kind":"Talk",
+        "toTime":"2010-11-18 11:50:00.0",
+        "id":153,
+        "title":"Festa Factory: Unmatched Productivity",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/309",
+        "note":"Reserved Festa Factory",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Kito Mann",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/109",
+        "code":"D10_C_18_09_00",
+        "fromTime":"2010-11-18 10:50:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/103",
+                "speaker":"Kito Mann"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 11:50:00.0",
+        "id":154,
+        "title":"Getting Things Done for Programmers",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/103",
+        "room":"Room 9"
+    },
+    {
+        "speaker":"Michael Chaize",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/372",
+        "code":"D10_C_18_06_00",
+        "fromTime":"2010-11-18 10:50:00.0",
+        "partnerSlot":true,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/331",
+                "speaker":"Michael Chaize"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 11:50:00.0",
+        "id":172,
+        "title":"Fun and visual effects with Flex 4",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/331",
+        "room":"Room 6"
+    },
+    {
+        "id":102,
+        "partnerSlot":false,
+        "fromTime":"2010-11-18 11:30:00.0",
+        "code":"Coffee Break",
+        "type":"Conference (1h)",
+        "toTime":"2010-11-18 12:00:00.0",
+        "kind":"Coffee Break",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Graeme Rocher",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/344",
+        "code":"D10_C_18_08_01",
+        "fromTime":"2010-11-18 12:00:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/252",
+                "speaker":"Graeme Rocher"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 13:00:00.0",
+        "id":103,
+        "title":"Grails 1.3 Update",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/252",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Roberto Chinnici",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/327",
+        "code":"D10_C_18_05_01",
+        "fromTime":"2010-11-18 12:00:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/275",
+                "speaker":"Roberto Chinnici"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 13:00:00.0",
+        "id":104,
+        "title":"Java EE 7",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/275",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"George Reese",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/155",
+        "code":"D10_C_18_04_01",
+        "fromTime":"2010-11-18 12:00:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/153",
+                "speaker":"George Reese"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 13:00:00.0",
+        "id":105,
+        "title":"Designing Java Systems to Operate at a Cloud Scale",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/153",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Dalibor Topic",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/381",
+        "code":"D10_C_18_09_01",
+        "fromTime":"2010-11-18 12:00:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/345",
+                "speaker":"Dalibor Topic"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 13:00:00.0",
+        "id":106,
+        "title":"OpenJDK",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/345",
+        "room":"Room 9"
+    },
+    {
+        "id":107,
+        "partnerSlot":true,
+        "fromTime":"2010-11-18 12:00:00.0",
+        "code":"D10_C_18_06_01",
+        "type":"Conference (1h)",
+        "note":"Reserved IBM",
+        "toTime":"2010-11-18 13:00:00.0",
+        "kind":"Talk",
+        "room":"Room 6"
+    },
+    {
+        "id":108,
+        "partnerSlot":false,
+        "fromTime":"2010-11-18 13:00:00.0",
+        "code":"Lunch, Exhibition and Quickies",
+        "type":"Conference (1h)",
+        "toTime":"2010-11-18 14:00:00.0",
+        "kind":"Lunch",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Costin Leau",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/29",
+        "code":"D10_Q_18_08_01",
+        "fromTime":"2010-11-18 13:15:00.0",
+        "partnerSlot":false,
+        "type":"Quickie (15m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/37",
+                "speaker":"Costin Leau"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 13:30:00.0",
+        "id":120,
+        "title":"Standard DI with @Inject and JSR-330",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/37",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Salvador Diaz",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/367",
+        "code":"D10_Q_18_05_01",
+        "fromTime":"2010-11-18 13:15:00.0",
+        "partnerSlot":false,
+        "type":"Quickie (15m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/325",
+                "speaker":"Salvador Diaz"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 13:30:00.0",
+        "id":126,
+        "title":"GWT and App Engine using the Devoxx REST Interface",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/325",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Ole Lensmar",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/375",
+        "code":"D10_Q_18_04_01",
+        "fromTime":"2010-11-18 13:15:00.0",
+        "partnerSlot":false,
+        "type":"Quickie (15m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/329",
+                "speaker":"Ole Lensmar"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 13:30:00.0",
+        "id":127,
+        "title":"loadUI : A uniquely cool approach to Interactive Distributed Load Testing",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/329",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Fredrik Rubensson",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/173",
+        "code":"D10_Q_18_09_01",
+        "fromTime":"2010-11-18 13:15:00.0",
+        "partnerSlot":false,
+        "type":"Quickie (15m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/66",
+                "speaker":"Fredrik Rubensson"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 13:30:00.0",
+        "id":128,
+        "title":"Continuous integration essentials",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/66",
+        "room":"Room 9"
+    },
+    {
+        "speaker":"Timothy Ward",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/206",
+        "code":"D10_Q_18_06_01",
+        "fromTime":"2010-11-18 13:15:00.0",
+        "partnerSlot":false,
+        "type":"Quickie (15m)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/216",
+                "speaker":"Timothy Ward"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 13:30:00.0",
+        "id":129,
+        "title":"A crash course in OSGi application development",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/216",
+        "room":"Room 6"
+    },
+    {
+        "speaker":"David Geary",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/244",
+        "code":"D10_C_18_08_02",
+        "fromTime":"2010-11-18 14:00:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/231",
+                "speaker":"David Geary"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 15:00:00.0",
+        "id":109,
+        "title":"Google Web Toolkit, Take 2: Implementing Awesome Rich Internet Applications",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/231",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Linda DeMichiel",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/286",
+        "code":"D10_C_18_05_02",
+        "fromTime":"2010-11-18 14:00:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/197",
+                "speaker":"Linda DeMichiel"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 15:00:00.0",
+        "id":110,
+        "title":"The Java Persistence Criteria API",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/197",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Dmitriy Ryaboy",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/246",
+        "code":"D10_C_18_04_02",
+        "fromTime":"2010-11-18 14:00:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/154",
+                "speaker":"Dmitriy Ryaboy"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 15:00:00.0",
+        "id":111,
+        "title":"Hadoop and NoSQL at Twitter",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/154",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Chris Mountford",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/301",
+        "code":"D10_C_18_09_02",
+        "fromTime":"2010-11-18 14:00:00.0",
+        "partnerSlot":true,
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/267",
+                "speaker":"Chris Mountford"
+            }
+        ],
+        "type":"Conference (1h)",
+        "kind":"Talk",
+        "toTime":"2010-11-18 15:00:00.0",
+        "id":112,
+        "title":"Monster Builds and How to Tame Them",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/267",
+        "note":"Reserved Atlassian",
+        "room":"Room 9"
+    },
+    {
+        "speaker":"Steve Freeman",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/347",
+        "code":"D10_C_18_06_02",
+        "fromTime":"2010-11-18 14:00:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/271",
+                "speaker":"Steve Freeman"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 15:00:00.0",
+        "id":113,
+        "title":"Fractal TDD - Using tests to drive system design",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/271",
+        "room":"Room 6"
+    },
+    {
+        "id":114,
+        "partnerSlot":false,
+        "fromTime":"2010-11-18 15:00:00.0",
+        "code":"Room switch",
+        "type":"Conference (1h)",
+        "toTime":"2010-11-18 15:10:00.0",
+        "kind":"Break",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Nathaniel Schutta",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/90",
+        "code":"D10_C_18_08_03",
+        "fromTime":"2010-11-18 15:10:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/112",
+                "speaker":"Nathaniel Schutta"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 16:10:00.0",
+        "id":115,
+        "title":"HTML 5 Fact and Fiction",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/112",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Dick Wall",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/338",
+        "code":"D10_C_18_05_03",
+        "fromTime":"2010-11-18 15:10:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/272",
+                "speaker":"Dick Wall"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/297",
+                "speaker":"Carl Quinn"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/298",
+                "speaker":"Joe Nuxoll"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 16:10:00.0",
+        "id":116,
+        "title":"JavaPosse Live",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/272",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Jonathan Gray",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/283",
+        "code":"D10_C_18_04_03",
+        "fromTime":"2010-11-18 15:10:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/177",
+                "speaker":"Jonathan Gray"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 16:10:00.0",
+        "id":117,
+        "title":"Hadoop, HBase, and Hive in Production",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/177",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Jan Van Coppenolle",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/380",
+        "code":"D10_C_18_09_03",
+        "fromTime":"2010-11-18 15:10:00.0",
+        "partnerSlot":true,
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/320",
+                "speaker":"Jan Van Coppenolle"
+            }
+        ],
+        "type":"Conference (1h)",
+        "kind":"Talk",
+        "toTime":"2010-11-18 16:10:00.0",
+        "id":118,
+        "title":"Flash Platform Mobile Development",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/320",
+        "note":"Reserved Xplore Group",
+        "room":"Room 9"
+    },
+    {
+        "id":119,
+        "partnerSlot":true,
+        "fromTime":"2010-11-18 15:10:00.0",
+        "code":"D10_C_18_06_03",
+        "type":"Conference (1h)",
+        "note":"Reserved SpringSource",
+        "toTime":"2010-11-18 16:10:00.0",
+        "kind":"Talk",
+        "room":"Room 6"
+    },
+    {
+        "id":131,
+        "partnerSlot":false,
+        "fromTime":"2010-11-18 16:10:00.0",
+        "code":"Coffee Break",
+        "type":"Conference (1h)",
+        "toTime":"2010-11-18 16:40:00.0",
+        "kind":"Coffee Break",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Brian Goetz",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/345",
+        "code":"D10_C_18_08_04",
+        "fromTime":"2010-11-18 16:40:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/283",
+                "speaker":"Brian Goetz"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 17:40:00.0",
+        "id":132,
+        "title":"Project Lambda: To Multicore and Beyond",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/283",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Neal Ford",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/329",
+        "code":"D10_C_18_05_04",
+        "fromTime":"2010-11-18 16:40:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/276",
+                "speaker":"Neal Ford"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 17:40:00.0",
+        "id":133,
+        "title":"Implementing Emergent Design",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/276",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Cosmin Lehene",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/259",
+        "code":"D10_C_18_04_04",
+        "fromTime":"2010-11-18 16:40:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/133",
+                "speaker":"Cosmin Lehene"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 17:40:00.0",
+        "id":134,
+        "title":"Big Data with HBase and Hadoop at Adobe",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/133",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"William Pugh",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/362",
+        "code":"D10_C_18_09_04",
+        "fromTime":"2010-11-18 16:40:00.0",
+        "partnerSlot":false,
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/307",
+                "speaker":"William Pugh"
+            }
+        ],
+        "type":"Conference (1h)",
+        "kind":"Talk",
+        "toTime":"2010-11-18 17:40:00.0",
+        "id":135,
+        "title":"Defective Java: Mistakes that matter",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/307",
+        "note":"Reserved",
+        "room":"Room 9"
+    },
+    {
+        "speaker":"Tom Baeyens",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/205",
+        "code":"D10_C_18_06_04",
+        "fromTime":"2010-11-18 16:40:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/214",
+                "speaker":"Tom Baeyens"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/245",
+                "speaker":"Joram Barrez"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 17:40:00.0",
+        "id":136,
+        "title":"Activiti in Action",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/214",
+        "room":"Room 6"
+    },
+    {
+        "id":137,
+        "partnerSlot":false,
+        "fromTime":"2010-11-18 17:40:00.0",
+        "code":"Room switch",
+        "type":"Conference (1h)",
+        "toTime":"2010-11-18 17:50:00.0",
+        "kind":"Break",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Joshua Bloch",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/366",
+        "code":"D10_C_18_08_05",
+        "fromTime":"2010-11-18 17:50:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/314",
+                "speaker":"Joshua Bloch"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 18:50:00.0",
+        "id":138,
+        "title":"Return of the Puzzlers",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/314",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"John Smart",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/302",
+        "code":"D10_C_18_05_05",
+        "fromTime":"2010-11-18 17:50:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/268",
+                "speaker":"John Smart"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 18:50:00.0",
+        "id":139,
+        "title":"Continuous Deployment - automated build pipelines with Maven, Nexus and Hudson",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/268",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Michael Cote",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/168",
+        "code":"D10_C_18_04_05",
+        "fromTime":"2010-11-18 17:50:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/167",
+                "speaker":"Michael Cote"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/230",
+                "speaker":"John Willis"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 18:50:00.0",
+        "id":140,
+        "title":"Does dev/ops matter for me?",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/167",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Matthew McCullough",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/150",
+        "code":"D10_C_18_09_05",
+        "fromTime":"2010-11-18 17:50:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/152",
+                "speaker":"Matthew McCullough"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 18:50:00.0",
+        "id":141,
+        "title":"Encryption Boot Camp on the JVM",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/152",
+        "room":"Room 9"
+    },
+    {
+        "id":142,
+        "partnerSlot":true,
+        "fromTime":"2010-11-18 17:50:00.0",
+        "code":"D10_C_18_06_05",
+        "type":"Conference (1h)",
+        "note":"Reserved Accenture",
+        "toTime":"2010-11-18 18:50:00.0",
+        "kind":"Talk",
+        "room":"Room 6"
+    },
+    {
+        "id":143,
+        "partnerSlot":false,
+        "fromTime":"2010-11-18 18:50:00.0",
+        "code":"Exhibition",
+        "type":"Conference (1h)",
+        "toTime":"2010-11-18 20:00:00.0",
+        "kind":"Break",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Regina ten Bruggencate",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/272",
+        "code":"D10_B_18_01_01",
+        "fromTime":"2010-11-18 19:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/219",
+                "speaker":"Regina ten Bruggencate"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 20:00:00.0",
+        "id":144,
+        "title":"Women in IT an unconference",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/219",
+        "room":"BOF 1"
+    },
+    {
+        "speaker":"Roberto Chinnici",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/354",
+        "code":"D10_B_18_01_02",
+        "fromTime":"2010-11-18 19:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/275",
+                "speaker":"Roberto Chinnici"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/224",
+                "speaker":"Paul Sandoz"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/197",
+                "speaker":"Linda DeMichiel"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/182",
+                "speaker":"Alexis Moussine-Pouchkine"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 20:00:00.0",
+        "id":145,
+        "title":"The JavaEE BOF",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/275",
+        "room":"BOF 2"
+    },
+    {
+        "speaker":"Stephan Janssen",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/319",
+        "code":"D10_B_18_02_01",
+        "fromTime":"2010-11-18 20:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/2",
+                "speaker":"Stephan Janssen"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 21:00:00.0",
+        "id":146,
+        "title":"The annual Java User Group BOF",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/2",
+        "room":"BOF 1"
+    },
+    {
+        "speaker":"Heinz Kabutz",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/297",
+        "code":"D10_B_18_02_02",
+        "fromTime":"2010-11-18 20:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/265",
+                "speaker":"Heinz Kabutz"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 21:00:00.0",
+        "id":147,
+        "title":"10 Years of The Java Specialists' Newsletter",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/265",
+        "room":"BOF 2"
+    },
+    {
+        "speaker":"Steven Noels",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/348",
+        "code":"D10_B_18_03_01",
+        "fromTime":"2010-11-18 21:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/68",
+                "speaker":"Steven Noels"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/31",
+                "speaker":"Shay Banon"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/287",
+                "speaker":"Tom White"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/266",
+                "speaker":"Alex Feinberg"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/154",
+                "speaker":"Dmitriy Ryaboy"
+            },
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/157",
+                "speaker":"Jonathan Ellis"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 22:00:00.0",
+        "id":148,
+        "title":"The NoSQL BOF",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/68",
+        "room":"BOF 1"
+    },
+    {
+        "speaker":"Adrian Cole",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/357",
+        "code":"D10_B_18_03_02",
+        "fromTime":"2010-11-18 21:00:00.0",
+        "partnerSlot":false,
+        "type":"Bof (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/254",
+                "speaker":"Adrian Cole"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-18 22:00:00.0",
+        "id":149,
+        "title":"Clustering the clouds in java",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/254",
+        "room":"BOF 2"
+    },
+    {
+        "id":150,
+        "partnerSlot":false,
+        "fromTime":"2010-11-19 08:00:00.0",
+        "code":"Breakfast",
+        "type":"Conference (1h)",
+        "toTime":"2010-11-19 09:30:00.0",
+        "kind":"Breakfast",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"James Gosling",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/361",
+        "code":"closing keynote",
+        "fromTime":"2010-11-19 09:30:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/306",
+                "speaker":"James Gosling"
+            }
+        ],
+        "kind":"Keynote",
+        "toTime":"2010-11-19 10:30:00.0",
+        "id":171,
+        "title":"Java: The State of the Union",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/306",
+        "room":"Room 8"
+    },
+    {
+        "id":155,
+        "partnerSlot":false,
+        "fromTime":"2010-11-19 10:30:00.0",
+        "code":"Coffee Break",
+        "type":"Conference (1h)",
+        "toTime":"2010-11-19 10:45:00.0",
+        "kind":"Break",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Adam Bien",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/121",
+        "code":"D10_C_19_08_02",
+        "fromTime":"2010-11-19 10:45:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/131",
+                "speaker":"Adam Bien"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-19 11:45:00.0",
+        "id":156,
+        "title":"Creating Lightweight Applications With Nothing But Vanilla Java EE 6",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/131",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Michael Cote",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/169",
+        "code":"D10_C_19_05_02",
+        "fromTime":"2010-11-19 10:45:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/167",
+                "speaker":"Michael Cote"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-19 11:45:00.0",
+        "id":157,
+        "title":"Pragmatic Cloud Computing, or, Dealing with Morlocks, or, Agile Infrastructure",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/167",
+        "room":"Room 5"
+    },
+    {
+        "speaker":"Matthias Wessendorf",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/32",
+        "code":"D10_C_19_04_02",
+        "fromTime":"2010-11-19 10:45:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/46",
+                "speaker":"Matthias Wessendorf"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-19 11:45:00.0",
+        "id":158,
+        "title":"WebSockets meet JavaServer Faces",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/46",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Claus Ibsen",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/356",
+        "code":"D10_C_19_09_02",
+        "fromTime":"2010-11-19 10:45:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/299",
+                "speaker":"Claus Ibsen"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-19 11:45:00.0",
+        "id":159,
+        "title":"Apache Camel, a powerful open source integration framework",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/299",
+        "room":"Room 9"
+    },
+    {
+        "id":160,
+        "partnerSlot":false,
+        "fromTime":"2010-11-19 11:45:00.0",
+        "code":"Room switch",
+        "type":"Conference (1h)",
+        "toTime":"2010-11-19 11:50:00.0",
+        "kind":"Break",
+        "room":"Hollywood Lounge"
+    },
+    {
+        "speaker":"Dan Allen",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/379",
+        "code":"D10_C_19_08_03",
+        "fromTime":"2010-11-19 11:50:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/244",
+                "speaker":"Dan Allen"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-19 12:50:00.0",
+        "id":161,
+        "title":"The roots of Java EE 6: JSR-299 (CDI) and Weld extensions",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/244",
+        "room":"Room 8"
+    },
+    {
+        "speaker":"Shay Banon",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/22",
+        "code":"D10_C_19_05_03",
+        "fromTime":"2010-11-19 11:50:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/31",
+                "speaker":"Shay Banon"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-19 12:50:00.0",
+        "id":162,
+        "title":"ElasticSearch - You Know, for Search",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/31",
+        "room":"Room 5"
+    },
+    {
+        "id":163,
+        "partnerSlot":true,
+        "fromTime":"2010-11-19 11:50:00.0",
+        "code":"D10_C_19_04_03",
+        "type":"Conference (1h)",
+        "note":"Reserved",
+        "toTime":"2010-11-19 12:50:00.0",
+        "kind":"Talk",
+        "room":"Room 4"
+    },
+    {
+        "speaker":"Max Katz",
+        "presentationUri":"http://cfp.devoxx.com/rest/v1/events/presentations/374",
+        "code":"D10_C_19_09_03",
+        "fromTime":"2010-11-19 11:50:00.0",
+        "partnerSlot":false,
+        "type":"Conference (1h)",
+        "speakers":[
+            {
+                "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/124",
+                "speaker":"Max Katz"
+            }
+        ],
+        "kind":"Talk",
+        "toTime":"2010-11-19 12:50:00.0",
+        "id":164,
+        "title":"Mobile Development Choices: Native Apps vs. Web Apps",
+        "speakerUri":"http://cfp.devoxx.com/rest/v1/events/speakers/124",
+        "room":"Room 9"
+    }
+]
