@@ -100,3 +100,10 @@ img.big-logo {
     color: #F68E14;
     text-decoration: none;
 }
+
+.credits {
+    position: relative;
+    bottom: 100px;
+    text-align: center;
+    font-size: smaller;
+}
