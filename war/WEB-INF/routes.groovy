@@ -1,5 +1,5 @@
 
-def cacheDuration = 0//24.hours
+def cacheDuration = 24.hours
 
 get "/ping",                    forward: "/ping.groovy"
 
