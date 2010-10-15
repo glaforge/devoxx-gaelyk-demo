@@ -1,5 +1,5 @@
 
-def cacheDuration = 24.hours
+def cacheDuration = 0//24.hours
 
 get "/ping",                    forward: "/ping.groovy"
 
@@ -12,6 +12,8 @@ get "/speaker/@id",             forward: "/speaker.groovy?id=@id",              
 get "/presentations",           forward: "/allPresentations.groovy",            cache: cacheDuration
 get "/presentations/track/@id", forward: "/allPresentations.groovy?track=@id",  cache: cacheDuration
 get "/presentation/@id",        forward: "/presentation.groovy?id=@id",         cache: cacheDuration
+
+post "/search",                 forward: "/search.groovy"
 
 get "/json/@resource",          forward: "/jsonResource.groovy?resource=@resource"
 

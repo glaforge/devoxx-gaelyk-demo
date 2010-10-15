@@ -13,9 +13,48 @@
             </li>
         <% } %>
         </ul>
+
+        <h3>Search for presentations</h3>
+
+        <script type="text/javascript">
+            jQuery(document).ready(function(){
+                jQuery("#searchForm").submit(function() {
+                    jQuery.post(
+                        "/search",
+                        jQuery("#searchForm").serialize(),  
+                        function(data) {
+                            jQuery("#results").html(data);
+                        },
+                        "html"
+                    );
+                    return false;
+                });
+            });
+        </script>
+
+        <form action="/search" method="post" id="searchForm">
+            <table id="search-form" cellpadding="2px" cellspacing="2px">
+                <tr>
+                    <td class="label"><label for="title">Title</label></td>
+                    <td class="field"><input type="text" id="title" name="title"></td>
+                </tr>
+                <tr>
+                    <td class="label"><label for="abstract">Abstract</label></td>
+                    <td class="field"><input type="text" id="abstract" name="abstract"></td>
+                </tr>
+                <tr>
+                    <td class="label"><label for="abstract">Speaker</label></td>
+                    <td class="field"><input type="text" id="speaker" name="speaker"></td>
+                </tr>
+                <tr>
+                    <td class="label"></td>
+                    <td class="field"><input type="submit" name="Search"></td>
+                </tr>
+            </table>
+        </form>
     </div>
 
-    <div class="talks">
+    <div class="talks" id="results">
         <h2>${request.currentTrack}</h2>
 
         <ul>
@@ -35,5 +74,6 @@
 
     <div class="clear"></div>
 </div>
+
 
 <% include '/WEB-INF/includes/footer.gtpl' %>

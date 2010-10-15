@@ -128,3 +128,49 @@ p {
     color: #F68E14;
     border-bottom: 1px dotted gray;
 }
+
+#search-form {
+    border: 6px solid #EEEEEE;
+    -moz-border-radius: 6px;
+ -webkit-border-radius: 6px;
+         border-radius: 6px;
+
+    -moz-box-shadow: 2px 2px 5px gray;
+ -webkit-box-shadow: 2px 2px 5px gray;
+         box-shadow: 2px 2px 5px gray;
+}
+
+#search-form .field input {
+    width: 200px;
+
+}
+
+#search-form .label {
+    text-align: right;
+    font-style: italic;
+    font-size: smaller;
+    color: gray;
+}
+
+.error {
+    color: #AA0000;
+    width: 400px;
+    border: 2px solid red;
+    padding: 10px;
+
+    text-shadow: 1px 1px 1px white;
+
+    -moz-border-radius: 6px;
+ -webkit-border-radius: 6px;
+         border-radius: 6px;
+
+    -moz-box-shadow: 2px 2px 5px gray;
+ -webkit-box-shadow: 2px 2px 5px gray;
+         box-shadow: 2px 2px 5px gray;
+    
+    background-image: -moz-linear-gradient(top, #FFAAAA, #FFEEEE); /* FF3.6 */
+    background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, #FFAAAA),color-stop(1, #FFEEEE)); /* Saf4+, Chrome */
+              filter:  progid:DXImageTransform.Microsoft.gradient(startColorStr='#FFAAAA', EndColorStr='#FFEEEE'); /* IE6,IE7 */
+          -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorStr='#FFAAAA', EndColorStr='#FFEEEE')"; /* IE8 */
+}
+

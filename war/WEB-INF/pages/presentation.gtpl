@@ -1,3 +1,12 @@
+<%  if (!request.preso) {
+        include "/WEB-INF/includes/header.gtpl?title=Presentation+not+found" %>
+<h1>Presentation</h1>
+
+<div class="error">
+    No presentation for that ID could be found.
+</div>
+<%  } else { %>
+
 <% include "/WEB-INF/includes/header.gtpl?title=${request.preso.title}" %>
 
 <h1>Presentation</h1>
@@ -33,5 +42,6 @@
 <div class="summary">
     ${request.preso.summary.replaceAll('\n', '<br/>')}
 </div>
+<% } %>
 
 <% include '/WEB-INF/includes/footer.gtpl' %>

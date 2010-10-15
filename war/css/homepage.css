@@ -103,7 +103,13 @@ img.big-logo {
 
 .credits {
     position: relative;
-    bottom: 100px;
+    bottom: 150px;
     text-align: center;
     font-size: smaller;
+    text-shadow: 1px 1px 1px #444444;
+}
+
+.credits a {
+    color: #F68E14;
+    text-decoration: none;
 }
