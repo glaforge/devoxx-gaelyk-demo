@@ -21,7 +21,7 @@ class RestCache {
         if (!content) {
             log.config "Content for ${resource} not in memcache"
             try {
-                def urlString = "http://cfp.devoxx.com/rest/v1/events/1/${resource}"
+                def urlString = "https://cfp.devoxx.com/rest/v1/events/1/${resource}"
                 log.config "Contacting $urlString"
                 def response = new URL(urlString).get(deadline: 10)
                 if (response.statusCode == 200) {
