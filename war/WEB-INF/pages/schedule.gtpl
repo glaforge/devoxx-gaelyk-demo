@@ -15,7 +15,7 @@
 <div class="panes">
 <%  request.eventsPerDay.each { day, allEvents ->
         def eventsByHour = allEvents.groupBy { it.fromTime } %>
-    <div style="height: 1250px">
+    <div style="height: 1450px">
     <%  eventsByHour.each { hour, events -> %>
         <h3 class="times">${hour[11..15]} &mdash; ${events[0].toTime[11..15]} : ${events[0].type}</h3>
         <ul>
