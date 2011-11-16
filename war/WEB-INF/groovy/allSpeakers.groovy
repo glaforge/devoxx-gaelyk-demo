@@ -8,7 +8,7 @@ def cachedSpeakersJson = memcache['resource-speakers']
 
 def allSpeakers = cachedSpeakersJson ? json.parseText(cachedSpeakersJson) : []
 log.info "Parsed ${allSpeakers.size()} speakers"
-def speakersByLetter = allSpeakers.groupBy { it.lastName[0].toUpperCase() }
+def speakersByLetter = allSpeakers.groupBy { it.lastName[0].toUpperCase() }.sort { it.key }
 
 request.speakersByLetter = speakersByLetter
 
