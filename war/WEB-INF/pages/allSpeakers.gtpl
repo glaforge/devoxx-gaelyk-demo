@@ -12,7 +12,7 @@
 
 <div class="panes">
 <%  request.speakersByLetter.each { letter, speakers -> %>
-    <div>
+    <div style="height: 1200px">
         <ul>
         <%  speakers.each { speaker -> %>
             <li>
