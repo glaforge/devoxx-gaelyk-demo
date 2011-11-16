@@ -1,4 +1,4 @@
-import net.sf.json.groovy.JsonSlurper
+import groovy.json.JsonSlurper
 import services.RestCache
 
 RestCache.cache 'schedule'

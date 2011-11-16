@@ -1,4 +1,4 @@
-import net.sf.json.groovy.JsonSlurper
+import groovy.json.JsonSlurper
 
 def searchQueryParams = params.collect { k, v -> "${k}=${URLEncoder.encode(v)}"}.join('&')
 def urlString = "http://cfp.devoxx.com/rest/v1/events/4/presentations/search?${searchQueryParams}"
